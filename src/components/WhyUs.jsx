@@ -75,7 +75,7 @@ export default function WhyUs() {
           viewport={{ amount: 0.3 }}
         >
           <h2 className="text-4xl font-cursive font-bold text-duke-dark mb-8 inline-block relative after:block after:w-full after:h-[3px] after:bg-duke-brown after:rounded-full after:mt-2">
-            Why Choose Duke?
+            Why Choose the Gleam Team?
           </h2>
 
           <div className="space-y-6">
