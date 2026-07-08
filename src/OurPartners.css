@@ -1,0 +1,115 @@
+/* OurPartners styles using plain CSS based on Tailwind config */
+.our-partners-section {
+  background-color: #e6f4f1; /* off-white */
+  padding: 4rem 1.5rem;
+  overflow: hidden;
+}
+
+.our-partners-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  max-width: 1280px; /* matches max-w-screen-xl */
+  margin: 0 auto;
+}
+
+.our-partners-title {
+  font-family: 'Courgette', cursive; /* font-cursive */
+  font-size: 2.5rem;
+  line-height: 1.2;
+  color: #005aa3; /* duke-dark */
+  position: relative;
+  display: inline-block;
+  padding-bottom: 0.5rem;
+}
+
+.our-partners-title::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 4px;
+  background-color: #7a3200; /* duke-brown */
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  border-radius: 2px;
+}
+
+.our-partners-title strong {
+  font-family: 'Courgette', cursive; /* unified to font-cursive */
+  font-weight: 700;
+}
+
+.logo-slider {
+  position: relative;
+  overflow: hidden;
+  max-width: 900px;
+  flex: 1;
+}
+
+.logo-row {
+  display: flex;
+  width: fit-content;
+  animation: logo-scroller 90s linear infinite;
+}
+
+.logo-row:hover {
+  animation-play-state: paused;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1rem;
+}
+
+.image-wrapper {
+  width: 150px;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.logo-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: grayscale(100%); /* makes image appear grayscale */
+  transition: filter 0.3s ease;
+}
+
+.logo-container:hover .image-wrapper {
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.logo-container:hover .logo-image {
+  filter: none; /* show original colors on hover */
+}
+
+@keyframes logo-scroller {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@media (max-width: 768px) {
+  .our-partners-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .our-partners-title {
+    text-align: left;
+    font-size: 2rem;
+  }
+}

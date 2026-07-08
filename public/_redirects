@@ -1,0 +1,23 @@
+# TODO: confirm final domain for Gleam Team (assumed gleamteam.co.nz, their existing domain)
+# Redirect all www and http traffic to non-www HTTPS
+http://gleamteam.co.nz/*        https://gleamteam.co.nz/:splat 301!
+https://www.gleamteam.co.nz/*   https://gleamteam.co.nz/:splat 301!
+http://www.gleamteam.co.nz/*    https://gleamteam.co.nz/:splat 301!
+
+# Redirect old/placeholder pages to home
+/home-1      /     301
+/home-3      /     301
+/services-1  /     301
+/blog-2-1    /     301
+/home        /     301
+/dukeblog/tag/*    /    301
+/services                     /                 301
+/dukeblog/tag/*              /                 301
+/dukeblog?format=rss         /                 301
+
+# Redirect renamed service path
+/residential-windows  /residential-window-cleaning   301
+/house-washing  /residential-house-washing       301
+
+# SPA fallback for React Router
+/*    /index.html   200
