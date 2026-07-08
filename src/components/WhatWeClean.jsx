@@ -23,7 +23,7 @@ export default function WhatWeClean() {
       {
         label: 'Window Cleaning',
         icon: windowIcon,
-        description: "Deal to that Kapiti Coast sea spray. Guaranteed to make your neighbours jealous",
+        description: "Deal to that Wanaka dust. Guaranteed to make your neighbours jealous",
         link: '/residential-window-cleaning',
       },
             {

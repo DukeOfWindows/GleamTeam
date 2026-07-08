@@ -29,6 +29,8 @@ export default function Footer() {
             <li><Link to="/residential-interior-window-cleaning" className="hover:underline">Interior Window Cleaning</Link></li>
             <li><Link to="/residential-roof-treatment" className="hover:underline">Roof Treatment - Moss & Mould</Link></li>
             <li><Link to="/residential-driveway-cleaning" className="hover:underline">Driveway Cleaning</Link></li>
+            <li><Link to="/residential-spider-spraying" className="hover:underline">Spider Spraying</Link></li>
+            <li><Link to="/residential-solar-panel-cleaning" className="hover:underline">Solar Panel Cleaning</Link></li>
           </ul>
         </div>
 

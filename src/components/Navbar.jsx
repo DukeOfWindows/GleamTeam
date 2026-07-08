@@ -96,6 +96,8 @@ export default function Navbar() {
                 { label: 'Roof Treatment - Moss & Mould', href: '/residential-roof-treatment' },
                 { label: 'Deck Washing', href: '/residential-deck-washing' },
                 { label: 'Driveway Cleaning', href: '/residential-driveway-cleaning' },
+                { label: 'Spider Spraying', href: '/residential-spider-spraying' },
+                { label: 'Solar Panel Cleaning', href: '/residential-solar-panel-cleaning' },
               ]}
             />
 
@@ -215,6 +217,8 @@ export default function Navbar() {
         { label: 'Roof Treatment', href: '/residential-roof-treatment' },
         { label: 'Deck Washing', href: '/residential-deck-washing' },
         { label: 'Driveway Cleaning', href: '/residential-driveway-cleaning' },
+        { label: 'Spider Spraying', href: '/residential-spider-spraying' },
+        { label: 'Solar Panel Cleaning', href: '/residential-solar-panel-cleaning' },
       ]}
     />
 

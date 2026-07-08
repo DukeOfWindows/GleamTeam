@@ -21,7 +21,7 @@ export default function TestimonialSlider({ testimonials = [] }) {
     <section className="py-20 bg-white overflow-hidden">
       <div className="text-center mb-12">
         <h2 className="text-4xl font-cursive font-bold text-duke-dark inline-block relative after:block after:w-full after:h-[3px] after:bg-duke-brown after:rounded-full after:mt-2">
-          What Kapiti Coast Locals Say
+          What Wanaka Locals Say
         </h2>
       </div>
 

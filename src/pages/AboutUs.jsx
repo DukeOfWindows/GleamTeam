@@ -10,8 +10,9 @@ import WhatWeClean from '../components/WhatWeClean';
 
 import heroAbout from '../images/about-duke-property-services-team.webp';
 import hoganImg from '../images/Tony-Wanakas-best-window-washer.webp';
-import tylerImg from '../images/duke-property-services-team-hogan.webp';
 import koaImg from '../images/Brenda-Wanakas-Second-best-window-cleaner.webp';
+import MattImg from '../images/matt.webp';
+import PaulaImg from '../images/paula.webp';
 import heartIcon from '../images/icons/heart.png';
 import historyIcon from '../images/icons/history.png';
 import targetIcon from '../images/icons/target.png';
@@ -96,7 +97,7 @@ export default function AboutUs() {
           </h2>
           {/* TODO: rewritten from Tony's bio on gleamteam.co.nz/about — double-check wording/details with him */}
           <p className="text-lg font-body mb-4">
-            Tony Lynch has been a professional window cleaner since 1980, starting out with a commercial window cleaning business in Wellington. At the turn of the millennium, Tony and his whānau moved to Wanaka, where they ran Missy's Kitchen restaurant for eight years. In 2018, together with his son Otis, Tony picked up the squeegee again and started Gleam Team Window Cleaning.
+            Tony Lynch has been a professional window cleaner since 1980, starting out with a commercial window cleaning business in Wellington. At the turn of the millennium, Tony and his whānau moved to Wanaka, where they ran Missy's Kitchen restaurant for eight years. In 2018, Tony picked up the squeegee again and started Gleam Team Window Cleaning.
           </p>
           <p className="text-lg font-body">
             Since then, the team has grown — but the commitment to community and detail hasn't changed. We service all areas in Wanaka, Hawea and Luggate.
@@ -105,24 +106,15 @@ export default function AboutUs() {
 
 {/* Meet the Team */}
 <section className="grid md:grid-cols-3 gap-10">
-  {/* TODO: photos below are still Hogan/Tyler/Koa from Duke Property Services — swap for
-      Tony/Otis/Brenda/Kobus photos when Gleam Team sends photos through. Bios use the real
-      team names from gleamteam.co.nz/about (Otis, Brenda, Kobus) but full bio copy for each
-      wasn't published on their current site — check with Tony for details on each person. */}
+  {/* TODO: Matt and Paula are using a placeholder team.png image and filler blurb text —
+      swap in real photos and bios when available. */}
   {[
     {
       name: 'Tony',
       title: 'Founder',
       img: hoganImg,
       alt: 'Tony Lynch, Founder of Gleam Team Window Cleaning',
-      desc: `Tony has been a professional window cleaner since 1980, starting out in Wellington before moving to Wanaka. In 2018 he started Gleam Team Window Cleaning with his son Otis.`,
-    },
-    {
-      name: 'Otis',
-      title: 'Technician',
-      img: tylerImg,
-      alt: 'Otis from Gleam Team Window Cleaning',
-      desc: `Otis joined his dad Tony to help start Gleam Team Window Cleaning in 2018, and has been part of the crew ever since.`,
+      desc: `Tony has been a professional window cleaner since 1980, starting out in Wellington before moving to Wanaka. In 2018 he started Gleam Team Window Cleaning.`,
     },
     {
       name: 'Brenda',
@@ -130,6 +122,20 @@ export default function AboutUs() {
       img: koaImg,
       alt: 'Brenda from Gleam Team Window Cleaning',
       desc: `Brenda is part of the Gleam Team crew, helping keep Wanaka, Hawea and Luggate's windows sparkling.`,
+    },
+    {
+      name: 'Matt',
+      title: 'Team Member',
+      img: MattImg,
+      alt: 'Matt from Gleam Team Window Cleaning',
+      desc: `Filler bio for Matt — update with his real story and role on the Gleam Team crew.`,
+    },
+    {
+      name: 'Paula',
+      title: 'Team Member',
+      img: PaulaImg,
+      alt: 'Paula from Gleam Team Window Cleaning',
+      desc: `Filler bio for Paula — update with her real story and role on the Gleam Team crew.`,
     },
   ].map((member, i) => (
     <motion.div

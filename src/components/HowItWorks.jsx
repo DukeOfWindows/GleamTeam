@@ -43,7 +43,7 @@ export default function HowItWorks() {
           <img src={iconEstimate} alt="Get a quote icon" className="w-14 h-14 mx-auto mb-4" />
           <h3 className="text-lg font-bold text-duke-dark mb-1">1. Get a Free Quote</h3>
           <p className="text-gray-700 font-body">
-            Tell us what you need and we’ll provide a no-obligation quote—fast and free across the Kapiti Coast.
+            Tell us what you need and we’ll provide a no-obligation quote—fast and free across Otago.
           </p>
         </motion.div>
 
@@ -51,7 +51,7 @@ export default function HowItWorks() {
           <img src={iconBook} alt="Book a service icon" className="w-14 h-14 mx-auto mb-4" />
           <h3 className="text-lg font-bold text-duke-dark mb-1">2. Book Your Service</h3>
           <p className="text-gray-700 font-body">
-            Choose a time that suits you. We show up on time—Paraparaumu to Waikanae and beyond.
+            Choose a time that suits you. We show up on time— HERE to THERE and beyond.
           </p>
         </motion.div>
 

@@ -13,6 +13,8 @@ import ResidentialInteriorWindowCleaning from './pages/ResidentialInteriorWindow
 import ResidentialRoofTreatment from './pages/ResidentialRoofTreatment';
 import ResidentialDeckWashing from './pages/ResidentialDeckWashing';
 import ResidentialDrivewayCleaning from './pages/ResidentialDrivewayCleaning';
+import ResidentialSpiderSpraying from './pages/ResidentialSpiderSpraying';
+import ResidentialSolarPanelCleaning from './pages/ResidentialSolarPanelCleaning';
 import CommercialWindowCleaning from './pages/CommercialWindowCleaning';
 import CommercialGutterCleaning from './pages/CommercialGutterCleaning';
 import CommercialBuildingWashing from './pages/CommercialBuildingWashing';
@@ -41,6 +43,8 @@ export default function SiteRoutes() {
        <Route path="/residential-roof-treatment" element={<ResidentialRoofTreatment />} />
        <Route path="/residential-deck-washing" element={<ResidentialDeckWashing />} />
        <Route path="/residential-driveway-cleaning" element={<ResidentialDrivewayCleaning />} />
+       <Route path="/residential-spider-spraying" element={<ResidentialSpiderSpraying />} />
+       <Route path="/residential-solar-panel-cleaning" element={<ResidentialSolarPanelCleaning />} />
        <Route path="/commercial-window-cleaning" element={<CommercialWindowCleaning />} />
        <Route path="/commercial-gutter-cleaning" element={<CommercialGutterCleaning />} />
        <Route path="/commercial-building-washing" element={<CommercialBuildingWashing />} />

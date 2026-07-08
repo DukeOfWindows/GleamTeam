@@ -1,15 +1,170 @@
- // TODO: These were all real, named customer reviews for Hogan's Duke Property Services
- // (Kapiti Coast) — removed because they can't be reused as Gleam Team's reviews.
- // Replace with real Gleam Team testimonials (e.g. pulled from their Google/Facebook
- // reviews with permission) before this site goes live. Left one placeholder below
- // so the testimonial slider doesn't break — swap it out.
+ // Real Google reviews for Gleam Team Window Cleaning, pasted in by Hogan.
+ // location is TO BE CONFIRMED for all — Google reviews don't include suburb info,
+ // so check with Tony for these. A few older reviews mention "Otis" by name (historical,
+ // from when he worked there) — left as authentic quotes rather than edited.
  const allTestimonials = [
- {
-              quote: '“Placeholder — add a real Gleam Team customer review here.”',
-              name: 'Customer Name',
-              location: 'Wanaka',
-            service: ['general']
-            },
+  {
+    quote: `“Windows are sparkling! Excellent people to work with, service is prompt, and respectful. I recommend the Gleam Team.”`,
+    name: 'Lindy Elliot',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“We've had the Gleam Team in to do the windows of our main house and separate Airbnb for years now. They are always friendly, professional and accommodating of our busy schedule. We always marvel at the difference afterwards.”`,
+    name: 'Sue Webster',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Great service, always on time, easy to deal with and do a great job! Would highly recommend Gleam Team. They do both our business and home windows and are amazing to work with!”`,
+    name: 'Brian Waltham',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“I'm super stoked with how the windows turned out! It had been a while….🫣 Super onto it communication from these guys and my request was short notice but they still managed to get me sorted. Nothing was a problem.”`,
+    name: 'Jolanda Williams',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Fabulous service, communication and the windows have never been soooo clean!”`,
+    name: 'Vicki Adams',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“We just had all our exterior and interior windows done by Gleam and they look incredible!!! I found them really efficient and professional. Communication was also great.”`,
+    name: 'Hannah Hughes',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“JUST. SO. GOOD! Firstly, we are absolutely thrilled with the job Tony and Otis did, they have made us feel like we have a new home, its made such a difference. Secondly, they were fantastic to communicate with and thirdly, their service was great.”`,
+    name: 'Jordi Hill',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“I want to commend your team – they did a great job today. They were very pleasant and friendly, were very efficient, and the windows look great. They managed even the difficult to access ones and seemed to enjoy the challenge!”`,
+    name: 'Giovanni Simon Losco',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Excellent service. Beautifully sparkling windows. Definitely recommend the Gleam Team.”`,
+    name: 'Bonny Teat',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Another amazing job, they never disappoint. Great communication, always go above and beyond without asking. GREAT TEAM.”`,
+    name: '22A Clan Mac',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Very efficient team and the windows come up sparkling. Would highly recommend The Gleam Team.”`,
+    name: 'Graeme & Andy Oxley',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Tony and Otis did a fantastic job. They were prompt, efficient and pleasant to have in my home. I even got a discount because they worked so quickly! Thank you, we'll be back.”`,
+    name: 'Jill Gerken',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Gleam Team cleaned our windows - inside and out. They were very pleasant whilst here and most efficient in their work. Would not hesitate to have them back or recommend to others.”`,
+    name: 'Sandra McGregor',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Tony & Otis were great to work with. Did a great job. They were able to manage difficult and very large windows.”`,
+    name: 'Gaye Toogood',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Great service from the friendly team & sparkling windows! Highly recommended!”`,
+    name: 'Karen Ryan',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Tony made a fantastic job of a construction clean on a new home all windows in and out, plus all window frames were immaculate. I would definitely recommend Gleam Team Wanaka.”`,
+    name: 'Karne Stirling',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Tony provided a great service with a friendly attitude. Fair price and completed the job beyond expectations. Cheers!”`,
+    name: 'Richie Johnston',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Two very eager guys who work quickly and efficiently with due care. I will get these guys to book me in as a regular. Cant rate the service highly enough.”`,
+    name: 'Leslie Mannering',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Wow! Thanks team! These guys were great to communicate with, and did a fast and exceptional job for a very reasonable price. Thrilled with the results!”`,
+    name: 'Rebekah Telfer',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Tony and Otis were great to deal with, well-priced, professional and prompt. Definitely going to use again.”`,
+    name: 'Linda Johnston',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Very professional and extremely obliging - showed real care to make me a happy customer.”`,
+    name: 'Colin Townsend',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Prompt and efficient service. Windows looked fantastic. Will definitely use again.”`,
+    name: 'Karen Thomas',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Thoroughtly recommend Tony and Otis! Honest and reliable, thank you.”`,
+    name: 'Neesh Ellis',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Very thorough, friendly service.”`,
+    name: 'Susie Winter',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Gleam does excellent work!”`,
+    name: 'David Knight',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“Excellent job. Thank you.”`,
+    name: 'Penelope Fisher',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
+  {
+    quote: `“WOULD 100% RECOMMEND :)”`,
+    name: 'Kyah Windle',
+    location: 'TO BE CONFIRMED',
+    service: ['window', 'general'],
+  },
 ];
 
 export default allTestimonials;
