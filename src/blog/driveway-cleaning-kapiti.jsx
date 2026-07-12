@@ -25,7 +25,7 @@ const DrivewayCleaningKapiti = () => {
 
           <h2>How We Clean Driveways</h2>
           <p>
-            At Duke Property Services, we use surface cleaners and controlled pressure washing to safely blast away grime without damaging the surface underneath.
+            At Gleam Team, we use surface cleaners and controlled pressure washing to safely blast away grime without damaging the surface underneath.
           </p>
           <ul>
             <li>🧽 We pre-treat stains for better results</li>
@@ -64,7 +64,7 @@ const DrivewayCleaningKapiti = () => {
           </p>
 
           <p>
-            Make your home feel fresh from the street. <strong>Book a professional driveway clean with Duke Property Services today.</strong>
+            Make your home feel fresh from the street. <strong>Book a professional driveway clean with Gleam Team today.</strong>
           </p>
         </>
       }

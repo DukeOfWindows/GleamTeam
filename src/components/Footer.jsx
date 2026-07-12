@@ -12,7 +12,7 @@ export default function Footer() {
         <div>
           <img
             src={logo}
-            alt="Duke Property Services – Kapiti Coast Exterior Cleaning Logo"
+            alt="Gleam Team – Kapiti Coast Exterior Cleaning Logo"
             className="h-14 mb-4"
           />
           <CTAButton className="text-sm px-4 py-2" />

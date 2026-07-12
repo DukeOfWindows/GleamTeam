@@ -35,7 +35,7 @@ const SoftWashingVsPressureWashing = () => {
 
           <h2>Why We Recommend Soft Washing for Most Homes</h2>
           <p>
-            Here on the Kapiti Coast, soft washing is ideal for our salt-laden air, moisture-prone environments, and delicate materials. At Duke Property Services, we use biodegradable treatments and gentle rinsing — preserving paint, roofing, and finishes.
+            Here on the Kapiti Coast, soft washing is ideal for our salt-laden air, moisture-prone environments, and delicate materials. At Gleam Team, we use biodegradable treatments and gentle rinsing — preserving paint, roofing, and finishes.
           </p>
           <p>
             Homeowners in Otaki, Plimmerton, and even hilly suburbs like Pukerua Bay often choose soft washing for roof treatments, house washing, and deck care.
@@ -43,7 +43,7 @@ const SoftWashingVsPressureWashing = () => {
 
           <h2>Protect Now, Save Later</h2>
           <p>
-            Don’t risk costly repairs or repainting. Book a <strong>soft wash service with Duke</strong> to safely restore your property’s exterior and extend its life.
+            Don’t risk costly repairs or repainting. Book a <strong>soft wash service with Gleam Team</strong> to safely restore your property’s exterior and extend its life.
           </p>
 
 

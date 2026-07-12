@@ -21,7 +21,7 @@ export default function Thanks() {
         <p className="text-lg text-gray-700 max-w-xl">
           We’ve received your message and will be in touch shortly. We look forward to helping you get your property sparkling.
         </p>
-        <img src={logo} alt="Duke Property Services logo" className="w-40 mt-10" />
+        <img src={logo} alt="Gleam Team logo" className="w-40 mt-10" />
       </main>
       <Footer />
     </>

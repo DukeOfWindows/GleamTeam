@@ -107,7 +107,7 @@ export default function CommercialGutterCleaning() {
           heading: 'Commercial Gutter Cleaning',
           paragraphs: [
             'Blocked gutters don’t just look bad — they put your building at risk. Overflow can damage roofs, cladding, paths, and even foundations.',
-            'At Duke Property Services, we use safe, hands-on methods to clear commercial gutters efficiently — without the need for scaffolding or mobile elevating work platforms.',
+            'At Gleam Team, we use safe, hands-on methods to clear commercial gutters efficiently — without the need for scaffolding or mobile elevating work platforms.',
             'Our experienced team works from height using ladders and harnesses to get the job done right.',
             'We clean gutters of all shapes and sizes — for factories, office blocks, schools, retail stores and more across Wellington, Kapiti COast and Horowhenua.',
           ],

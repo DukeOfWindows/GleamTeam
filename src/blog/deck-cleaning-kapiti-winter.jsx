@@ -25,7 +25,7 @@ const DeckCleaningWinter = () => {
 
           <h2>Our Winter Deck Cleaning Process</h2>
           <p>
-            Duke Property Services uses a low-pressure wash paired with biodegradable cleaners to gently lift grime, algae, and dirt without damaging the wood.
+            Gleam Team uses a low-pressure wash paired with biodegradable cleaners to gently lift grime, algae, and dirt without damaging the wood.
           </p>
           <ul>
             <li>🧼 Pre-treatment to kill algae and loosen buildup</li>
@@ -67,7 +67,7 @@ const DeckCleaningWinter = () => {
           </p>
 
           <p>
-            Ready to reclaim your deck? <strong>Book a winter deck clean with Duke Property Services</strong> and enjoy safer steps and longer-lasting timber.
+            Ready to reclaim your deck? <strong>Book a winter deck clean with Gleam Team</strong> and enjoy safer steps and longer-lasting timber.
           </p>
         </>
       }

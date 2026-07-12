@@ -106,7 +106,7 @@ export default function ResidentialWindowCleaning() {
           heading: "Residential Window Cleaning",
           paragraphs: [
             "Part art, part science – getting a streak-free shine on your home's windows takes know-how, the right tools, and maybe even a ladder.",
-            "The difference between amazing results and unmitigated disasters comes down to a lot of experience and a little elbow grease. The team at Duke Property Services are armed with both.",
+            "The difference between amazing results and unmitigated disasters comes down to a lot of experience and a little elbow grease. The team at Gleam Team are armed with both.",
             "Their top-of-the-line tools and proprietary cleaning products, coupled with their knowledge in how to use them, help deliver spotless, streak-free results.",
             "Choosing a Duke clean from our Kapiti-based window cleaning team means opting for high-quality, long-lasting results.",
           ],

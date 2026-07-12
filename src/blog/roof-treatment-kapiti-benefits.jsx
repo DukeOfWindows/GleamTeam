@@ -23,7 +23,7 @@ const RoofTreatmentKapiti = () => {
             A full roof replacement in New Zealand can cost $15,000 or more. A roof treatment? A fraction of the price — and it acts like insurance for your most exposed surface.
           </p>
 
-          <h2>How Duke Property Services Treats Roofs</h2>
+          <h2>How Gleam Team Treats Roofs</h2>
           <p>
             We apply a gentle, eco-friendly treatment that kills moss and lichen at the roots. Over time, rain naturally washes it away — no harsh pressure or scrubbing needed.
           </p>
@@ -65,7 +65,7 @@ const RoofTreatmentKapiti = () => {
           </p>
 
           <p>
-            Don’t wait for moss to take hold — <strong>book a roof treatment with Duke Property Services today</strong> and protect your home’s first line of defence.
+            Don’t wait for moss to take hold — <strong>book a roof treatment with Gleam Team today</strong> and protect your home’s first line of defence.
           </p>
         </>
       }

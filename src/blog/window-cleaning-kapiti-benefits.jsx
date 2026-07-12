@@ -23,7 +23,7 @@ const WindowCleaningKapiti = () => {
             Regular window cleaning extends the life of your windows and keeps your property looking sharp — whether you're hosting guests or selling your home.
           </p>
 
-          <h2>The Duke Property Services Difference</h2>
+          <h2>The Gleam Team Difference</h2>
           <p>
             We use purified water and streak-free techniques to ensure crystal-clear results. Our friendly team services everything from single-storey homes in Levin to multi-level houses in Plimmerton — always with ladder safety and care.
           </p>
@@ -37,7 +37,7 @@ const WindowCleaningKapiti = () => {
           </p>
 
           <p>
-            Don’t let grime get between you and your view. <strong>Book a window clean with Duke Property Services</strong> and enjoy sparkling glass all year round.
+            Don’t let grime get between you and your view. <strong>Book a window clean with Gleam Team</strong> and enjoy sparkling glass all year round.
           </p>
 
           <h2>FAQs</h2>

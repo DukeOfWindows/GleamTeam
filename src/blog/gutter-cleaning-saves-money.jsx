@@ -35,7 +35,7 @@ const GutterCleaningPost = () => {
 
           <h2>Prevention is Always Cheaper</h2>
           <p>
-            A professional gutter clean from Duke Property Services costs far less than emergency repairs. Plus, we use
+            A professional gutter clean from Gleam Team costs far less than emergency repairs. Plus, we use
             ladder safety, downspout flushing, and debris removal to get the job done right.
           </p>
 

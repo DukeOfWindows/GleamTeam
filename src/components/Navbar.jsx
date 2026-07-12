@@ -77,7 +77,7 @@ export default function Navbar() {
           <Link to="/" className="flex items-center space-x-2">
             <img
               src={logo}
-              alt="Duke Property Services logo"
+              alt="Gleam Team logo"
               className="h-10 md:h-14 lg:h-16 transition-all duration-200"
             />
           </Link>
