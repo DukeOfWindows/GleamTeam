@@ -59,7 +59,7 @@ export default function ResidentialGutterCleaning() {
   return (
     <>
 <HelmetSEO
-  pageTitle="Residential Gutter Cleaning | Gleam Team Window Cleaning"
+  pageTitle="Gutter Cleaning Wanaka | Gleam Team"
   metaDescription="Protect your home from water damage with professional gutter cleaning across the Upper Clutha. We clean gutters in Wanaka, Lake Hawea, Cromwell, and nearby."
   canonicalUrl="https://gleamteam.co.nz/residential-gutter-cleaning"
   image="https://gleamteam.co.nz/images/hero-gutter.jpg"

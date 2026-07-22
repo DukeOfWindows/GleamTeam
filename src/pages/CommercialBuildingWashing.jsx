@@ -67,7 +67,7 @@ export default function CommercialBuildingWashing() {
  return (
 <>
 <HelmetSEO
-  pageTitle="Commercial Building Washing | Gleam Team Window Cleaning"
+  pageTitle="Building Washing Wanaka | Commercial | Gleam Team"
   metaDescription="Exterior soft washing for commercial buildings across the Upper Clutha. Safe for signage, plaster, and painted cladding. Serving Wanaka, Lake Hawea, Cromwell and more."
   canonicalUrl="https://gleamteam.co.nz/commercial-building-washing"
   image="https://gleamteam.co.nz/images/hero-commercial-washing.jpg"

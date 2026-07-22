@@ -61,7 +61,7 @@ export default function ResidentialSolarPanelCleaning() {
   return (
     <>
       <HelmetSEO
-        pageTitle="Solar Panel Cleaning | Gleam Team Window Cleaning"
+        pageTitle="Solar Panel Cleaning Wanaka | Gleam Team"
         metaDescription="Professional solar panel cleaning for homes across Wanaka, Hawea, Luggate, Tarras and Cromwell — keep your panels performing at their best."
         canonicalUrl="https://gleamteam.co.nz/residential-solar-panel-cleaning"
         image="https://gleamteam.co.nz/images/hero-solar-panel-cleaning.jpg"

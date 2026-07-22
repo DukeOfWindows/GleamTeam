@@ -68,7 +68,7 @@ export default function ResidentialInteriorWindowCleaning() {
   return (
     <>
 <HelmetSEO
-  pageTitle="Interior Window Cleaning | Gleam Team Window Cleaning"
+  pageTitle="Interior Window Cleaning Wanaka | Gleam Team"
   metaDescription="Crystal-clear interior windows, mirrors, and glass surfaces cleaned with care and respect for your home. Trusted by homeowners across Wanaka."
   canonicalUrl="https://gleamteam.co.nz/residential-interior-window-cleaning"
   image="https://gleamteam.co.nz/images/hero-interior.jpg"

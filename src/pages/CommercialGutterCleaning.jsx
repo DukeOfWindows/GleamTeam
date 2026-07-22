@@ -75,7 +75,7 @@ export default function CommercialGutterCleaning() {
   return (
     <>
 <HelmetSEO
-  pageTitle="Commercial Gutter Cleaning | Gleam Team Window Cleaning"
+  pageTitle="Commercial Gutter Cleaning Wanaka | Gleam Team"
   metaDescription="Prevent overflow and water damage with professional gutter clearing for commercial buildings. Servicing offices, schools, and retail properties across the Upper Clutha."
   canonicalUrl="https://gleamteam.co.nz/commercial-gutter-cleaning"
   image="https://gleamteam.co.nz/images/hero-commercial-gutter.jpg"

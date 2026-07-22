@@ -61,7 +61,7 @@ export default function ResidentialSpiderSpraying() {
   return (
     <>
       <HelmetSEO
-        pageTitle="Spider Spraying | Gleam Team Window Cleaning"
+        pageTitle="Spider Spraying Wanaka | Gleam Team"
         metaDescription="Professional spider spraying and pest treatment for homes across Wanaka, Hawea, Luggate, Tarras and Cromwell."
         canonicalUrl="https://gleamteam.co.nz/residential-spider-spraying"
         image="https://gleamteam.co.nz/images/hero-spider-spraying.jpg"

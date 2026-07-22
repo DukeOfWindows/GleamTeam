@@ -66,7 +66,7 @@ export default function CommercialWindowCleaning() {
   return (
     <>
 <HelmetSEO
-  pageTitle="Commercial Window Cleaning | Gleam Team Window Cleaning"
+  pageTitle="Commercial Window Cleaning Wanaka | Gleam Team"
   metaDescription="Professional window cleaning for shopfronts, offices, schools, and multi-storey buildings across the Upper Clutha. Reliable, insured, and safety-compliant."
   canonicalUrl="https://gleamteam.co.nz/commercial-window-cleaning"
   image="https://gleamteam.co.nz/images/hero-commercial-window.jpg"

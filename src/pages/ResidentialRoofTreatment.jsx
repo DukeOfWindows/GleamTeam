@@ -66,7 +66,7 @@ export default function ResidentialRoofTreatment() {
   return (
     <>
 <HelmetSEO
-  pageTitle="Roof Treatments & Moss Control | Gleam Team Window Cleaning"
+  pageTitle="Roof Treatment Wanaka | Moss & Mould Control | Gleam Team"
   metaDescription="Kill lichen, moss, and mould on your roof with our safe and effective roof treatment services. Long-lasting results with no pressure washing required."
   canonicalUrl="https://gleamteam.co.nz/residential-roof-treatment"
   image="https://gleamteam.co.nz/images/hero-roof.jpg"

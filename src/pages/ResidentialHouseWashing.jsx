@@ -68,7 +68,7 @@ const faqItems = [
   return (
     <>
 <HelmetSEO
-  pageTitle="House Washing | Gleam Team Window Cleaning"
+  pageTitle="House Washing Wanaka | Gleam Team"
   metaDescription="Gentle soft washing for all house types across the Upper Clutha. Remove grime, algae, and mildew from cladding, joinery, and soffits — safely and thoroughly."
   canonicalUrl="https://gleamteam.co.nz/residential-house-washing"
   image="https://gleamteam.co.nz/images/hero-house.jpg"

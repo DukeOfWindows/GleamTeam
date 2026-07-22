@@ -67,7 +67,7 @@ export default function ResidentialDrivewayCleaning() {
   return (
     <>
 <HelmetSEO
-  pageTitle="Driveway & Path Cleaning | Gleam Team Window Cleaning"
+  pageTitle="Driveway Cleaning Wanaka | Gleam Team"
   metaDescription="Pressure washing for driveways, concrete paths, pavers, and patios. Remove grime, algae, oil and tire marks for a safer, cleaner entrance."
   canonicalUrl="https://gleamteam.co.nz/residential-driveway-cleaning"
   image="https://gleamteam.co.nz/images/hero-driveway.jpg"

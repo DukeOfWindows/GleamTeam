@@ -23,7 +23,7 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>Gleam Team Window Cleaning | Wanaka Window Cleaning Experts</title>
+        <title>Window Cleaning Wanaka | Gleam Team Window Cleaning</title>
         <meta
           name="description"
           content="Friendly, reliable, and professional window cleaning across Wanaka, Hawea, Luggate, Tarras and Cromwell. Gleam Team offers residential and commercial window cleaning, pure water cleaning, and more."

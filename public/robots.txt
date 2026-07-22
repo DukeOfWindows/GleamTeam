@@ -1,10 +1,4 @@
 User-agent: *
-Disallow: /home-1
-Disallow: /home-3
-Disallow: /services-1
-Disallow: /blog-2-1
-Disallow: /*?author=
-Disallow: /*?format=rss
 Allow: /
 
 Sitemap: https://gleamteam.co.nz/sitemap.xml

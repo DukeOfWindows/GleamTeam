@@ -67,7 +67,7 @@ export default function CommercialPressureWashing() {
   return (
     <>
 <HelmetSEO
-  pageTitle="Commercial Pressure Washing | Gleam Team Window Cleaning"
+  pageTitle="Commercial Pressure Washing Wanaka | Gleam Team"
   metaDescription="High-power surface cleaning for commercial properties — driveways, car parks, courtyards and more. Safe, efficient, and tailored to your site."
   canonicalUrl="https://gleamteam.co.nz/commercial-pressure-washing"
   image="https://gleamteam.co.nz/images/hero-commercial-pressure.jpg"
