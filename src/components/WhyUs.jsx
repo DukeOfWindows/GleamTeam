@@ -14,7 +14,7 @@ export default function WhyUs() {
       icon: iconLocal,
       alt: 'Upper Clutha local icon',
       title: 'Locally owned & operated',
-      description: 'Wanaka-based and proudly servicing from HERE to THERE.',
+      description: 'Wanaka-based and proudly servicing from Cardrona to Cromwell.',
     },
     {
       icon: iconGear,
