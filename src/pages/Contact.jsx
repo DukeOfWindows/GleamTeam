@@ -97,8 +97,8 @@ export default function Contact() {
         alt="Gleam Team Window Cleaning service area coverage map"
         className="w-full h-auto rounded-xl shadow-md"
       />
-      {/* TODO: mapImage above is still Duke's Kapiti Coast map graphic — swap for a Wanaka/Upper Clutha map when photos are updated.
-          TODO: the interactive map link below was Duke's custom Google My Maps — create a new one for Gleam Team's service area, or link to Google Maps directly. */}
+      {/* TODO: swap the link below for Gleam Team's new Google My Maps share link
+          (Share -> "Anyone with link") so visitors see the same interactive map. */}
       <a
         href="https://www.google.com/maps/search/?api=1&query=Wanaka+Hawea+Luggate+Tarras+New+Zealand"
         target="_blank"

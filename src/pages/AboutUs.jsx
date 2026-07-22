@@ -8,7 +8,7 @@ import TestimonialSlider from '../components/TestimonialSlider';
 import testimonials from '../data/testimonialsData';
 import WhatWeClean from '../components/WhatWeClean';
 
-import heroAbout from '../images/about-duke-property-services-team.webp';
+import heroAbout from '../images/about-gleam-team-hero.webp';
 import hoganImg from '../images/Tony-Wanakas-best-window-washer.webp';
 import koaImg from '../images/Brenda-Wanakas-Second-best-window-cleaner.webp';
 import MattImg from '../images/matt.webp';
@@ -100,7 +100,7 @@ export default function AboutUs() {
             Tony Lynch has been a professional window cleaner since 1980, starting out with a commercial window cleaning business in Wellington. At the turn of the millennium, Tony and his whānau moved to Wanaka, where they ran Missy's Kitchen restaurant for eight years. In 2018, Tony picked up the squeegee again and started Gleam Team Window Cleaning.
           </p>
           <p className="text-lg font-body">
-            Since then, the team has grown — but the commitment to community and detail hasn't changed. We service all areas in Wanaka, Hawea and Luggate.
+            Since then, the team has grown — but the commitment to community and detail hasn't changed. We service all areas in Wanaka, Haweaa, Luggate & Cromwell.
           </p>
         </motion.section>
 
