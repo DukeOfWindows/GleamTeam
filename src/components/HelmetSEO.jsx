@@ -40,7 +40,7 @@ export default function HelmetSEO({
           name: "Gleam Team Window Cleaning",
           image: image,
           url: canonicalUrl,
-          telephone: "+64 27 457 5152",
+          telephone: "+64 22 436 7611",
           priceRange: "$$",
           address: {
             "@type": "PostalAddress",

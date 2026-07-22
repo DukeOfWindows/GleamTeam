@@ -128,7 +128,7 @@ export default function Navbar() {
 
               <div className="flex flex-col text-sm font-body text-right leading-tight">
     <a
-    href="tel:+64274575152"
+    href="tel:+64224367611"
     onClick={() => {
       if (typeof window !== 'undefined' && typeof window.gtag_report_conversion === 'function') {
         window.gtag_report_conversion();
@@ -136,7 +136,7 @@ export default function Navbar() {
     }}
     className="text-duke-dark hover:text-duke-blue transition-colors duration-200"
   >
-    027 457 5152
+    022 436 7611
   </a>
                 <a
                   href="mailto:info@gleamteam.co.nz"
@@ -186,7 +186,7 @@ export default function Navbar() {
         Request Quote
       </CTAButton>
 <a
-  href="tel:+64274575152"
+  href="tel:+64224367611"
   onClick={() => {
     if (typeof window !== 'undefined' && typeof window.gtag_report_conversion === 'function') {
       window.gtag_report_conversion();
@@ -194,7 +194,7 @@ export default function Navbar() {
   }}
   className="inline-block px-6 py-3 bg-duke-dark text-white rounded-xl font-body text-sm shadow hover:bg-duke-blue transition-colors duration-200"
 >
-  027 457 5152
+  022 436 7611
 </a>
       <a
         href="mailto:info@gleamteam.co.nz"

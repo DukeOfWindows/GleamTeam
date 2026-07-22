@@ -35,7 +35,7 @@ const BlogHome = () => {
             name: "Gleam Team Window Cleaning",
             image: "https://gleamteam.co.nz/src/images/logo.png",
             url: "https://gleamteam.co.nz",
-            telephone: "+64 27 457 5152",
+            telephone: "+64 22 436 7611",
             priceRange: "$$",
             address: {
               "@type": "PostalAddress",

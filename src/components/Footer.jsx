@@ -65,7 +65,7 @@ export default function Footer() {
 <li>
   Phone:{' '}
   <a
-    href="tel:+64274575152"
+    href="tel:+64224367611"
     onClick={() => {
       if (typeof window !== 'undefined' && typeof window.gtag_report_conversion === 'function') {
         window.gtag_report_conversion();
@@ -73,7 +73,7 @@ export default function Footer() {
     }}
     className="text-duke-blue"
   >
-    027 457 5152
+    022 436 7611
   </a>
 </li>
     <li>
