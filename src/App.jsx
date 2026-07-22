@@ -10,7 +10,6 @@ import heroImage from './images/hero-image.webp';
 import Footer from './components/Footer';
 import WhatWeClean from './components/WhatWeClean';
 import CTAButton from './components/CTAButton';
-import OurPartners from './components/OurPartners'; // adjust path if needed
 
 
 function shuffleArray(array) {

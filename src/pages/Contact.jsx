@@ -7,7 +7,6 @@ import ContactForm from '../components/ContactForm';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import mapImage from '../images/service-area-map-upper-clutha.webp';
-import OurPartners from '../components/OurPartners';
 
 const fadeInUp = {
   hidden: { opacity: 0, y: 40 },
