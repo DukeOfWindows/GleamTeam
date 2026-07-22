@@ -172,7 +172,7 @@ return (
 >
 <img
   src={housePhoto}
-  alt="Kapiti house exterior after washing"
+  alt="Wanaka house exterior after washing"
   className="w-full h-full object-cover rounded-lg shadow-lg"
   loading="lazy"
 />

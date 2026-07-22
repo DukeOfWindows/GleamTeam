@@ -1,23 +1,23 @@
 import React from 'react';
 import BlogPost from './BlogPostTemplate';
 
-const DrivewayCleaningKapiti = () => {
+const DrivewayCleaningWanaka = () => {
   return (
     <BlogPost
       title="What a Clean Driveway Says About Your Home"
-      description="From curb appeal to safety, a clean driveway makes a strong first impression. Learn how professional cleaning transforms your property — especially in Kapiti’s coastal climate."
+      description="From curb appeal to safety, a clean driveway makes a strong first impression. Learn how professional cleaning transforms your property — especially in the Upper Clutha’s alpine climate."
       date="2025-08-04"
-      slug="driveway-cleaning-kapiti"
-      image="/images/blog/driveway-cleaning-kapiti.webp"
+      slug="driveway-cleaning-wanaka"
+      image="/images/blog/driveway-cleaning-wanaka.webp"
       content={
         <>
           <p>
-            Your driveway is one of the first things people see — and yet it’s often the last thing homeowners clean. On the Kapiti Coast, where damp weather and salt air take their toll, driveways from Porirua to Otaki can quickly turn dark, slippery, and stained.
+            Your driveway is one of the first things people see — and yet it’s often the last thing homeowners clean. In the Upper Clutha, where frosts and alpine weather take their toll, driveways from Wanaka to Cromwell can quickly turn dark, slippery, and stained.
           </p>
 
           <h2>Why Driveway Cleaning Matters</h2>
           <p>
-            Over time, moss, algae, oil stains, and tyre marks build up — creating both a visual eyesore and a slip risk. This is especially common in shaded spots like Tawa or leafy areas like Waikanae.
+            Over time, moss, algae, oil stains, and tyre marks build up — creating both a visual eyesore and a slip risk. This is especially common in shaded spots or leafy areas around Wanaka and Lake Hawea.
           </p>
           <p>
             A clean driveway lifts your entire home’s appearance. Whether you’re selling, hosting guests, or just pulling in after work — it feels good to arrive to clean concrete or pavers.
@@ -33,7 +33,7 @@ const DrivewayCleaningKapiti = () => {
             <li>🌿 We rinse thoroughly — no mess left behind</li>
           </ul>
           <p>
-            From narrow concrete strips in Raumati to wide driveways in Levin, we’ve cleaned it all — and the difference is always satisfying.
+            From narrow concrete strips in Wanaka to wide rural driveways in Tarras, we’ve cleaned it all — and the difference is always satisfying.
           </p>
 
           <h2>Seasonal Tip: Winter & Autumn Build-Up</h2>
@@ -45,7 +45,7 @@ const DrivewayCleaningKapiti = () => {
 
           <p>
             <strong>How often should I clean my driveway?</strong><br />
-            Once a year is ideal, or every 6–9 months in shady or damp areas like Paekākāriki or Otaihanga.
+            Once a year is ideal, or every 6–9 months in shady or damp spots around Cardrona or Lake Hawea.
           </p>
 
           <p>
@@ -60,7 +60,7 @@ const DrivewayCleaningKapiti = () => {
 
           <p>
             <strong>Do you service steep driveways or tight access areas?</strong><br />
-            Absolutely. From Pukerua Bay hills to tight Raumati cul-de-sacs, we’re equipped for tricky jobs.
+            Absolutely. From Cardrona hills to tight Wanaka cul-de-sacs, we’re equipped for tricky jobs.
           </p>
 
           <p>
@@ -72,4 +72,4 @@ const DrivewayCleaningKapiti = () => {
   );
 };
 
-export default DrivewayCleaningKapiti;
+export default DrivewayCleaningWanaka;

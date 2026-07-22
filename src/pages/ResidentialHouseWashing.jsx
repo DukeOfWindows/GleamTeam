@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import HelmetSEO from '../components/HelmetSEO';
 
 import ResidentialTemplate from './ResidentialTemplate';
-import houseHero from '../images/house-washing-kapiti-coast-softwash.webp';
+import houseHero from '../images/house-washing-wanaka-softwash.webp';
 import tallHouse from '../images/exterior-house-softwash-before-after.webp';
 import softwashImg from '../images/tools/roof-softwash-delivery-system.webp';
 import brushImg from '../images/tools/soft-brush-commercial-signage-cleaning.webp';
@@ -69,7 +69,7 @@ const faqItems = [
     <>
 <HelmetSEO
   pageTitle="House Washing | Gleam Team Window Cleaning"
-  metaDescription="Gentle soft washing for all house types across Kapiti Coast. Remove grime, algae, and mildew from cladding, joinery, and soffits — safely and thoroughly."
+  metaDescription="Gentle soft washing for all house types across the Upper Clutha. Remove grime, algae, and mildew from cladding, joinery, and soffits — safely and thoroughly."
   canonicalUrl="https://gleamteam.co.nz/residential-house-washing"
   image="https://gleamteam.co.nz/images/hero-house.jpg"
 breadcrumbItems={[
@@ -103,7 +103,7 @@ breadcrumbItems={[
           "Our gentle soft washing method safely removes grime without the risk of damage from high-pressure systems",
           "We tailor each wash to your needs, using a range of solutions from natural acetic acid (white vinegar) to sodium hypochlorite (bleach), followed by a low-pressure rinse to refresh your home’s exterior.",
           "Perfect for weatherboard, plaster, brick, and other exterior surfaces. Let your home shine again.",
-          "We proudly service the Kapiti Coast and beyond, including Paraparaumu, Raumati, Waikanae, Ōtaki — and everywhere between Newlands and Levin."
+          "We proudly service the Upper Clutha area, including Wanaka, Cardrona, Lake Hawea, Hawea Flat, Luggate, Tarras and Cromwell."
         ],
         listItems: [
           "Soft washing all exterior walls, soffits, gutters and downpipes",

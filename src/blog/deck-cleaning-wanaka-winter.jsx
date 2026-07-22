@@ -4,15 +4,15 @@ import BlogPost from './BlogPostTemplate';
 const DeckCleaningWinter = () => {
   return (
     <BlogPost
-      title="Why Winter Is the Perfect Time to Clean Your Deck on the Kapiti Coast"
+      title="Why Winter Is the Perfect Time to Clean Your Deck in Wanaka"
       description="Winter rain, shade, and debris can turn your deck into a slippery hazard. Discover why this season is the ideal time for professional deck cleaning."
       date="2025-08-04"
-      slug="deck-cleaning-kapiti-winter"
+      slug="deck-cleaning-wanaka-winter"
       image="/images/blog/deck-cleaning-winter.webp"
       content={
         <>
           <p>
-            If your deck feels more like a skating rink than a relaxing outdoor space, you're not alone. On the Kapiti Coast — especially in shaded areas like Waikanae and Raumati South — winter creates the perfect storm for moss, mould, and slick grime buildup.
+            If your deck feels more like a skating rink than a relaxing outdoor space, you're not alone. In the Upper Clutha — especially in shaded spots around Wanaka and Lake Hawea — winter creates the perfect storm for moss, mould, and slick grime buildup.
           </p>
 
           <h2>Why Deck Cleaning Matters in Winter</h2>
@@ -20,7 +20,7 @@ const DeckCleaningWinter = () => {
             Moisture, falling leaves, and low sunlight mean timber stays wet for longer, encouraging algae growth. Left untreated, this not only becomes a slip hazard but also accelerates wood rot and surface decay.
           </p>
           <p>
-            We’ve seen decks in Otaki Beach and Paraparaumu that went from grey and slimy to clean, grippy, and safe again — all with one winter clean.
+            We’ve seen decks in Luggate and Hawea Flat that went from grey and slimy to clean, grippy, and safe again — all with one winter clean.
           </p>
 
           <h2>Our Winter Deck Cleaning Process</h2>
@@ -33,7 +33,7 @@ const DeckCleaningWinter = () => {
             <li>🔒 Optional post-wash seal to help repel future moisture</li>
           </ul>
           <p>
-            We regularly service winter-prone properties in Levin, Pukerua Bay, and even bush-clad decks in Paekākāriki.
+            We regularly service winter-prone properties in Wanaka, Cardrona, and even tree-sheltered decks out at Tarras.
           </p>
 
           <h2>Don’t Wait Until Spring</h2>
@@ -48,22 +48,22 @@ const DeckCleaningWinter = () => {
 
           <p>
             <strong>Is it safe to clean my deck in winter?</strong><br />
-            Yes — winter cleaning is not only safe but essential. We use equipment designed for cold, damp conditions across the Kapiti Coast.
+            Yes — winter cleaning is not only safe but essential. We use equipment designed for cold, damp conditions across the Upper Clutha.
           </p>
 
           <p>
             <strong>Will cleaning damage my timber?</strong><br />
-            No. We avoid high pressure and use tailored soft washing techniques that preserve timber on decks in areas like Raumati and Plimmerton.
+            No. We avoid high pressure and use tailored soft washing techniques that preserve timber on decks in areas like Wanaka and Lake Hawea.
           </p>
 
           <p>
             <strong>How often should I clean my deck?</strong><br />
-            Once a year is usually enough, but shaded or tree-covered decks (like in Otaihanga or Pukerua Bay) may benefit from a 6–9 month cycle.
+            Once a year is usually enough, but shaded or tree-covered decks (like in Cardrona or around Lake Hawea) may benefit from a 6–9 month cycle.
           </p>
 
           <p>
             <strong>Do you do multi-level or hard-to-reach decks?</strong><br />
-            Absolutely. We’ve cleaned elevated and wraparound decks all over Kapiti and Horowhenua — even in steep spots like Tawa.
+            Absolutely. We’ve cleaned elevated and wraparound decks all over the Upper Clutha — even in steep spots around Cardrona.
           </p>
 
           <p>

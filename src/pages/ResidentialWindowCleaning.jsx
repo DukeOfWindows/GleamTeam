@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import ResidentialTemplate from './ResidentialTemplate';
 import HelmetSEO from '../components/HelmetSEO';
-import heroWindow from '../images/window-cleaning-kapiti-coast-professionals.webp'; 
-import tallWindow from '../images/window-cleaning-before-after-paraparaumu.webp'; 
+import heroWindow from '../images/window-cleaning-wanaka-professionals.webp'; 
+import tallWindow from '../images/window-cleaning-before-after-wanaka.webp'; 
 import poleImg from '../images/tools/window-cleaning-waterfed-pole.webp';
 import squeegeeImg from '../images/tools/window-edge-squeegee-clean.webp';
 import purewaterImg from '../images/tools/resin-filter-pure-water-setup.webp';
@@ -77,7 +77,7 @@ export default function ResidentialWindowCleaning() {
     <>
 <HelmetSEO
   pageTitle="Residential Window Cleaning | Gleam Team Window Cleaning"
-  metaDescription="Streak-free window cleaning for homes across Paraparaumu, Waikanae, Otaki and nearby. Trusted professionals who care about detail and safety."
+  metaDescription="Streak-free window cleaning for homes across Wanaka, Lake Hawea, Luggate and nearby. Trusted professionals who care about detail and safety."
   canonicalUrl="https://gleamteam.co.nz/residential-window-cleaning"
   image="https://gleamteam.co.nz/images/hero-window.jpg"
   breadcrumbItems={[
@@ -108,7 +108,7 @@ export default function ResidentialWindowCleaning() {
             "Part art, part science – getting a streak-free shine on your home's windows takes know-how, the right tools, and maybe even a ladder.",
             "The difference between amazing results and unmitigated disasters comes down to a lot of experience and a little elbow grease. The team at Gleam Team are armed with both.",
             "Their top-of-the-line tools and proprietary cleaning products, coupled with their knowledge in how to use them, help deliver spotless, streak-free results.",
-            "Choosing a Duke clean from our Kapiti-based window cleaning team means opting for high-quality, long-lasting results.",
+            "Choosing Gleam Team, our Wanaka-based window cleaning crew, means opting for high-quality, long-lasting results.",
           ],
           listItems: [
             "External window washing with pure-water technology",
@@ -134,7 +134,7 @@ export default function ResidentialWindowCleaning() {
           title: "Our Toolkit",
           subtitle: "Tools of the Trade — Not Your Neighbour’s Hose",
           description:
-            "We provide window cleaning services across the Kapiti Coast and beyond — including Levin, Ohau, Otaki, Otaki Beach, Te Horo, Peka Peka, Waikanae, Waikanae Beach, Paraparaumu, Paraparaumu Beach, Raumati, Raumati Beach, Paekakariki, Pukerua Bay, Plimmerton, and Whitby.",
+            "We provide window cleaning services across the Upper Clutha — including Wanaka, Cardrona, Lake Hawea, Hawea Flat, Luggate, Tarras, and Cromwell.",
           items: [
             {
               image: poleImg,

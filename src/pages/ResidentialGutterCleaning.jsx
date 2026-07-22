@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 import HelmetSEO from '../components/HelmetSEO';
 
 import ResidentialTemplate from './ResidentialTemplate';
-import gutterHero from '../images/gutter-cleaning-paraparaumu-waikanae.webp';
-import tallGutter from '../images/gutter-blockage-example-kapiti.webp';
+import gutterHero from '../images/gutter-cleaning-wanaka-hawea.webp';
+import tallGutter from '../images/gutter-blockage-example-wanaka.webp';
 import ladderImg from '../images/tools/ladder-placement-gutter-access.webp';
 import harnessImg from '../images/tools/fall-arrest-harness-hooked.webp';
 import softwashImg from '../images/tools/softwash-nozzle-low-pressure.webp';
@@ -60,7 +60,7 @@ export default function ResidentialGutterCleaning() {
     <>
 <HelmetSEO
   pageTitle="Residential Gutter Cleaning | Gleam Team Window Cleaning"
-  metaDescription="Protect your home from water damage with professional gutter cleaning on the Kapiti Coast. We clean gutters in Paraparaumu, Waikanae, Otaki, and nearby."
+  metaDescription="Protect your home from water damage with professional gutter cleaning across the Upper Clutha. We clean gutters in Wanaka, Lake Hawea, Cromwell, and nearby."
   canonicalUrl="https://gleamteam.co.nz/residential-gutter-cleaning"
   image="https://gleamteam.co.nz/images/hero-gutter.jpg"
 breadcrumbItems={[
@@ -90,8 +90,8 @@ breadcrumbItems={[
           "Clogged gutters can cause leaks, mold, and serious water damage to your home.",
           "Our expert team clears out leaves, moss, and debris by hand — then flushes the system to ensure water flows freely.",
           "With regular maintenance, you protect your roofline, prevent overflow, and avoid expensive repairs.",
-          "We service homes throughout Kapiti and beyond — including Whitby, Paraparaumu, Waikanae, Levin, and everywhere in between.",
-          "Let Duke take care of the dirty work so you don't have to risk falling off a ladder!",
+          "We service homes throughout the Upper Clutha — including Wanaka, Cardrona, Lake Hawea, Hawea Flat, Luggate, Tarras, Cromwell, and everywhere in between.",
+          "Let the Gleam Team take care of the dirty work so you don't have to risk falling off a ladder!",
         ],
         listItems: [
           "Hand-removal of debris and moss",

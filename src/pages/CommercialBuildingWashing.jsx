@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import HelmetSEO from '../components/HelmetSEO';
 import CommercialTemplate from './CommercialTemplate';
-import heroBuilding from '../images/commercial-building-softwash-kapiti-coast.webp';
+import heroBuilding from '../images/commercial-building-softwash-wanaka.webp';
 import washBuilding from '../images/tools/softwash-setup-commercial-building.webp';
 import softwashImg from '../images/commercial-building-dirty-wall.webp';
 import brushImg from '../images/tools/waterfed-pole-commercial-window.webp';
@@ -68,7 +68,7 @@ export default function CommercialBuildingWashing() {
 <>
 <HelmetSEO
   pageTitle="Commercial Building Washing | Gleam Team Window Cleaning"
-  metaDescription="Exterior soft washing for commercial buildings across the Kapiti Coast. Safe for signage, plaster, and painted cladding. Serving Paraparaumu, Waikanae, Otaki and more."
+  metaDescription="Exterior soft washing for commercial buildings across the Upper Clutha. Safe for signage, plaster, and painted cladding. Serving Wanaka, Lake Hawea, Cromwell and more."
   canonicalUrl="https://gleamteam.co.nz/commercial-building-washing"
   image="https://gleamteam.co.nz/images/hero-commercial-washing.jpg"
   breadcrumbItems={[
@@ -97,9 +97,9 @@ export default function CommercialBuildingWashing() {
           image: washBuilding,
           heading: 'Commercial Building Washing',
           paragraphs: [
-            'Algae, mould, and airborne grime can build up quickly — especially on coastal buildings, painted surfaces, and shaded cladding.',
+            'Algae, mould, and airborne grime can build up quickly — especially on painted surfaces and shaded cladding.',
             'We use a gentle soft wash system designed for commercial properties. It’s safe on paint, panels, signage, and plaster exteriors — and it lasts.',
-            'Let us freshen up your building with minimal disruption and long-term results. We service Newlands, Porirua, Paraparaumu, Waikanae, Levin, and everywhere in between',
+            'Let us freshen up your building with minimal disruption and long-term results. We service Wanaka, Cardrona, Lake Hawea, Hawea Flat, Luggate, Tarras, Cromwell, and everywhere in between',
           ],
           listItems: [
             'Low-pressure soft wash for walls and cladding',
@@ -123,7 +123,7 @@ export default function CommercialBuildingWashing() {
           title: 'Our Commercial-Grade Toolkit',
           subtitle: 'Purpose-Built for Big Jobs and Delicate Surfaces',
           description:
-            'We provide building washing services across Kapiti, including Paraparaumu, Waikanae, Otaki, Peka Peka and more.',
+            'We provide building washing services across the Upper Clutha, including Wanaka, Lake Hawea, Luggate and more.',
           items: [
             {
               image: softwashImg,

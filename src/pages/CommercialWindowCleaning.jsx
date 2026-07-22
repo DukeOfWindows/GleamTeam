@@ -67,7 +67,7 @@ export default function CommercialWindowCleaning() {
     <>
 <HelmetSEO
   pageTitle="Commercial Window Cleaning | Gleam Team Window Cleaning"
-  metaDescription="Professional window cleaning for shopfronts, offices, schools, and multi-storey buildings across Kapiti. Reliable, insured, and safety-compliant."
+  metaDescription="Professional window cleaning for shopfronts, offices, schools, and multi-storey buildings across the Upper Clutha. Reliable, insured, and safety-compliant."
   canonicalUrl="https://gleamteam.co.nz/commercial-window-cleaning"
   image="https://gleamteam.co.nz/images/hero-commercial-window.jpg"
   breadcrumbItems={[
@@ -98,7 +98,7 @@ export default function CommercialWindowCleaning() {
           "First impressions matter. Clean windows speak volumes about your business — and we’re here to make sure they shine.",
           "From local storefronts to multi-storey office buildings, our commercial window cleaning service uses advanced tools and techniques for sparkling results without the fuss.",
           "Our trained team works efficiently, safely, and discreetly — so you can get on with business while we handle the shine.",
-          "We make regular visits to businesses in Newlands, the Kapiti Coast, Levin, and everywhere in between.",
+          "We make regular visits to businesses in Wanaka, Lake Hawea, Cromwell, and everywhere in between.",
         ],
         listItems: [
           "Pure water-fed pole system for up to 3 storeys",
@@ -121,7 +121,7 @@ export default function CommercialWindowCleaning() {
       tools={{
         title: 'Our Commercial-Grade Toolkit',
         subtitle: "Built for Efficiency, Reach, and Results",
-        description: "Servicing commercial clients from Pukerua Bay to Levin — including Paraparaumu, Waikanae, Otaki, and more.",
+        description: "Servicing commercial clients from Wanaka to Cromwell — including Lake Hawea, Luggate, Tarras, and more.",
         items: [
           {
             image: poleImg,

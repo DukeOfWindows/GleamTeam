@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import teamPhoto from '../images/Tony-Wanakas-best-window-washer.webp';
-import iconKapiti from '../images/icons/kapiti-dark.png';
+import iconLocal from '../images/icons/local-dark.png';
 import iconGear from '../images/icons/gear-dark.png';
 import iconTeam from '../images/icons/trained-dark.png';
 import iconEstimate from '../images/icons/arrange-dark.png';
@@ -11,8 +11,8 @@ import iconService from '../images/icons/results-dark.png';
 export default function WhyUs() {
   const features = [
     {
-      icon: iconKapiti,
-      alt: 'Kapiti icon',
+      icon: iconLocal,
+      alt: 'Upper Clutha local icon',
       title: 'Locally owned & operated',
       description: 'Wanaka-based and proudly servicing from HERE to THERE.',
     },

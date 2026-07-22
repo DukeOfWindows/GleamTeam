@@ -6,7 +6,7 @@ import contactPhoto from '../images/tools/commercial-pressure-gun-closeup.webp';
 import ContactForm from '../components/ContactForm';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import mapImage from '../images/service-area-map-kapiti-coast.webp';
+import mapImage from '../images/service-area-map-upper-clutha.webp';
 import OurPartners from '../components/OurPartners';
 
 const fadeInUp = {
@@ -119,10 +119,12 @@ export default function Contact() {
       </p>
       <ul className="list-disc list-inside mt-4 space-y-1">
         <li>Wanaka</li>
-        <li>Albert Town</li>
+        <li>Cardrona</li>
         <li>Lake Hawea</li>
+        <li>Hawea Flat</li>
         <li>Luggate</li>
         <li>Tarras</li>
+        <li>Cromwell</li>
       </ul>
     </div>
   </div>

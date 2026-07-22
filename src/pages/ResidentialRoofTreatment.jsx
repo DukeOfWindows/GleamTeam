@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import HelmetSEO from '../components/HelmetSEO';
 import ResidentialTemplate from './ResidentialTemplate';
-import heroRoof from '../images/roof-treatment-lichen-removal-kapiti.webp';
+import heroRoof from '../images/roof-treatment-lichen-removal-wanaka.webp';
 import tallRoof from '../images/roof-cleaning-treatment-example.webp';
 import ladderImg from '../images/tools/ladder-roof-access-secured.webp';
 import sprayImg from '../images/tools/hand-sprayer-bioclean-application.webp';
@@ -101,7 +101,7 @@ export default function ResidentialRoofTreatment() {
           "Application is safe, effective, and works gradually over months as the weather naturally removes debris.",
                    "Routine treatments help extend roof life, improve appearance, and avoid costly repairs down the track.",
 
-          "We proudly service the Kapiti Coast and beyond, including Paraparaumu, Raumati, Waikanae, Ōtaki — and everywhere between Newlands and Levin.",
+          "We proudly service the Upper Clutha area, including Wanaka, Cardrona, Lake Hawea, Hawea Flat, Luggate, Tarras and Cromwell.",
         ],
         listItems: [
           "Low-pressure chemical application",

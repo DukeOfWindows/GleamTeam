@@ -5,7 +5,7 @@ import HelmetSEO from '../components/HelmetSEO';
 import ResidentialTemplate from './ResidentialTemplate';
 // TODO: placeholder images reused from roof treatment — swap in real solar panel photos when available
 import solarHero from '../images/roof-cleaning-treatment-example.webp';
-import tallSolar from '../images/roof-treatment-lichen-removal-kapiti.webp';
+import tallSolar from '../images/roof-treatment-lichen-removal-wanaka.webp';
 import purewaterImg from '../images/tools/pure-water-system-window-cleaning.webp';
 import poleImg from '../images/tools/reach-pole-glass-cleaning.webp';
 import ladderImg from '../images/tools/ladder-roof-access-secured.webp';

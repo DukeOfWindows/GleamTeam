@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import HelmetSEO from '../components/HelmetSEO';
 import CommercialTemplate from './CommercialTemplate';
-import heroPressure from '../images/commercial-pressure-washing-kapiti.webp';
+import heroPressure from '../images/commercial-pressure-washing-wanaka.webp';
 import pressuresquareImg from '../images/high-pressure-wash-example-driveway.webp'; 
 import surfaceImg from '../images/tools/multi-surface-pressure-cleaning.webp';
 import lanceImg from '../images/tools/commercial-pressure-lance-closeup.webp';
@@ -99,7 +99,7 @@ export default function CommercialPressureWashing() {
           "Grime, algae, oil stains, and gum don’t just look bad — they make your business look neglected and can create slip hazards.",
           "Our high-powered commercial pressure washing service tackles it all: shopfronts, carparks, loading zones, signage, bins, and more.",
           "We clean outside business hours if needed and use surface cleaners to keep mess to a minimum.",
-          "We are based on the Kapiti Coast, but service Newlands, Levin and everywhere in between.",
+          "We are based in Wanaka, and service Cardrona, Cromwell and everywhere in between.",
         ],
         listItems: [
           "Flat surface cleaning with rotary tools",
@@ -122,7 +122,7 @@ export default function CommercialPressureWashing() {
       tools={{
         title: 'Our Commercial-Grade Toolkit',
         subtitle: "Power. Precision. Clean.",
-        description: "We service businesses across Kapiti, from Otaki to Paekakariki — carparks, walkways, signage and more.",
+        description: "We service businesses across the Upper Clutha, from Wanaka to Cromwell — carparks, walkways, signage and more.",
         items: [
           {
             image: lanceImg,

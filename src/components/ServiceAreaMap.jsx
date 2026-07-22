@@ -1,5 +1,5 @@
 import React from 'react';
-import mapImage from '../images/service-area-map-kapiti-coast.webp'; // Static fallback image
+import mapImage from '../images/service-area-map-upper-clutha.webp'; // Static fallback image
 
 export default function ServiceAreaMap({ useStatic = false }) {
   return (

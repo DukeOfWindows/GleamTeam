@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import HelmetSEO from '../components/HelmetSEO';
 import CommercialTemplate from './CommercialTemplate';
-import heroGutter from '../images/commercial-gutter-cleaning-waikanae-otaki.webp';
+import heroGutter from '../images/commercial-gutter-cleaning-wanaka.webp';
 import gutterImg from '../images/commercial-gutter-filled-before-clean.webp';
 import softwashImg from '../images/tools/gutter-softwash-solution-application.webp';
 import ladderImg from '../images/tools/ladder-safety-commercial-gutter-cleaning.webp';
@@ -76,7 +76,7 @@ export default function CommercialGutterCleaning() {
     <>
 <HelmetSEO
   pageTitle="Commercial Gutter Cleaning | Gleam Team Window Cleaning"
-  metaDescription="Prevent overflow and water damage with professional gutter clearing for commercial buildings. Servicing offices, schools, and retail properties across the Kapiti Coast."
+  metaDescription="Prevent overflow and water damage with professional gutter clearing for commercial buildings. Servicing offices, schools, and retail properties across the Upper Clutha."
   canonicalUrl="https://gleamteam.co.nz/commercial-gutter-cleaning"
   image="https://gleamteam.co.nz/images/hero-commercial-gutter.jpg"
   breadcrumbItems={[
@@ -109,7 +109,7 @@ export default function CommercialGutterCleaning() {
             'Blocked gutters don’t just look bad — they put your building at risk. Overflow can damage roofs, cladding, paths, and even foundations.',
             'At Gleam Team, we use safe, hands-on methods to clear commercial gutters efficiently — without the need for scaffolding or mobile elevating work platforms.',
             'Our experienced team works from height using ladders and harnesses to get the job done right.',
-            'We clean gutters of all shapes and sizes — for factories, office blocks, schools, retail stores and more across Wellington, Kapiti COast and Horowhenua.',
+            'We clean gutters of all shapes and sizes — for factories, office blocks, schools, retail stores and more across Wanaka, Lake Hawea, Cromwell and the wider Upper Clutha.',
           ],
           listItems: [
             'High-reach cleaning up to 3 storeys',
@@ -132,7 +132,7 @@ export default function CommercialGutterCleaning() {
           title: 'Our Commercial-Grade Toolkit',
           subtitle: 'Tools Built for Safety, Height & Precision',
           description:
-            'Serving commercial clients from Pukerua Bay to Levin, including Otaki, Waikanae, Paraparaumu and surrounding areas.',
+            'Serving commercial clients from Wanaka to Cromwell, including Lake Hawea, Luggate, Tarras and surrounding areas.',
           items: [
             {
               image: ladderImg,

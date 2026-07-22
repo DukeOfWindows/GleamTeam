@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import HelmetSEO from '../components/HelmetSEO';
 import ResidentialTemplate from './ResidentialTemplate';
-import heroDeck from '../images/deck-cleaning-service-kapiti-coast.webp';
-import tallDeck from '../images/deck-mould-removal-waikanae.webp';
+import heroDeck from '../images/deck-cleaning-service-wanaka.webp';
+import tallDeck from '../images/deck-mould-removal-lake-hawea.webp';
 import deckbrushImg from '../images/tools/deck-brush-soft-scrub-tool.webp';
 import deckpressureImg from '../images/tools/deck-pressure-washer-action-shot.webp';
 import decksafeImg from '../images/tools/safety-setup-for-deck-cleaning.webp';
@@ -68,7 +68,7 @@ export default function ResidentialDeckWashing() {
     <>
 <HelmetSEO
   pageTitle="Deck Washing Services | Gleam Team Window Cleaning"
-  metaDescription="Restore the look and grip of your timber or composite deck with our professional deck washing services. Serving Waikanae, Raumati, and Paraparaumu."
+  metaDescription="Restore the look and grip of your timber or composite deck with our professional deck washing services. Serving Wanaka, Lake Hawea, and Luggate."
   canonicalUrl="https://gleamteam.co.nz/residential-deck-washing"
   image="https://gleamteam.co.nz/images/hero-deck.jpg"
   breadcrumbItems={[
@@ -96,11 +96,11 @@ export default function ResidentialDeckWashing() {
         image: tallDeck,
         heading: "Residential Deck Washing",
         paragraphs: [
-          "Decks can become slippery, stained, and unsightly over time — especially in shaded, coastal, or damp areas common on the Kapiti Coast.",
+          "Decks can become slippery, stained, and unsightly over time — especially in shaded or damp spots common across the Upper Clutha.",
           "Our soft-wash deck cleaning methods gently lift dirt and organic build-up without damaging timber or composite materials.",
           "We adjust water pressure, techniques, and chemicals to suit your surface — giving you safe, long-lasting results.",
           "A clean deck not only looks great — it’s safer to walk on, better for entertaining, and protects your investment over time.",
-          "We proudly service the Kapiti Coast and beyond, including Paraparaumu, Raumati, Waikanae, Ōtaki — and everywhere between Newlands and Levin.",
+          "We proudly service the Upper Clutha area, including Wanaka, Cardrona, Lake Hawea, Hawea Flat, Luggate, Tarras and Cromwell.",
         ],
         listItems: [
           "Soft-wash for timber & composite decking",

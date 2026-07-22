@@ -101,7 +101,7 @@ breadcrumbItems={[
           "Our interior window cleaning is done with precision tools and lint-free cloths to ensure a crystal-clear, streak-free finish.",
           "We’re respectful of your space, working cleanly around furniture, curtains, and delicate surfaces.",
           "Your view deserves to look good from both sides — not just the outside.",
-          "We proudly service the Kapiti Coast and beyond, including Paraparaumu, Raumati, Waikanae, Ōtaki — and everywhere between Newlands and Levin.",
+          "We proudly service the Upper Clutha area, including Wanaka, Cardrona, Lake Hawea, Hawea Flat, Luggate, Tarras and Cromwell.",
         ],
         listItems: [
           "Interior window panes cleaned by hand",

@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import HelmetSEO from '../components/HelmetSEO';
 import ResidentialTemplate from './ResidentialTemplate';
-import heroDriveway from '../images/driveway-pressure-cleaning-kapiti.webp';
+import heroDriveway from '../images/driveway-pressure-cleaning-wanaka.webp';
 import tallDriveway from '../images/driveway-cleaning-before-after.webp';
 import surfacecleanerImg from '../images/tools/multi-surface-pressure-cleaning.webp';
 import wandImg from '../images/tools/commercial-pressure-gun-closeup.webp';
@@ -101,7 +101,7 @@ export default function ResidentialDrivewayCleaning() {
           "We use professional-grade pressure washers and surface cleaners to remove grime safely and evenly.",
           "Whether it’s concrete, asphalt, or paving stones, we tailor the pressure and product to protect the surface.",
           "Your driveway is the first thing visitors see — let’s make it sparkle.",
-          "We proudly service the Kapiti Coast and beyond, including Paraparaumu, Raumati, Waikanae, Ōtaki — and everywhere between Newlands and Levin."
+          "We proudly service the Upper Clutha area, including Wanaka, Cardrona, Lake Hawea, Hawea Flat, Luggate, Tarras and Cromwell."
         ],
         listItems: [
           "Concrete, asphalt, and paver-safe cleaning",

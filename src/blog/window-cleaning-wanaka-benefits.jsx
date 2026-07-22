@@ -1,23 +1,23 @@
 import React from 'react';
 import BlogPost from './BlogPostTemplate';
 
-const WindowCleaningKapiti = () => {
+const WindowCleaningWanaka = () => {
   return (
     <BlogPost
-      title="Clear Views & Curb Appeal: The Benefits of Window Cleaning on the Kapiti Coast"
-      description="Discover how regular window cleaning boosts your home's appearance, protects glass, and increases natural light — especially in coastal areas like Waikanae and Paraparaumu."
+      title="Clear Views & Curb Appeal: The Benefits of Window Cleaning in Wanaka"
+      description="Discover how regular window cleaning boosts your home's appearance, protects glass, and increases natural light — especially in areas like Wanaka and Lake Hawea."
       date="2025-08-04"
-      slug="window-cleaning-kapiti-benefits"
+      slug="window-cleaning-wanaka-benefits"
       image="/images/blog/window-cleaning-benefits.webp"
       content={
         <>
           <p>
-            Living on the Kapiti Coast means stunning views — but salty sea air, dust, and pollen can quickly dull your windows. Whether you’re in Raumati Beach, Otaihanga, or Pukerua Bay, clean windows make a massive difference to your home’s feel and value.
+            Living in the Upper Clutha area means stunning views — but dust, pollen, and alpine weather can quickly dull your windows. Whether you’re in Wanaka, Lake Hawea, or Luggate, clean windows make a massive difference to your home’s feel and value.
           </p>
 
           <h2>Why Window Cleaning Matters</h2>
           <p>
-            Over time, airborne contaminants like salt, pollution, and insect residue can etch into glass, causing permanent marks. This is especially common in homes closer to the coast, like Paraparaumu or Paekākāriki, where sea spray is a daily reality.
+            Over time, airborne contaminants like dust, pollen, and insect residue can etch into glass, causing permanent marks. This is especially common on rural properties around Hawea Flat or Tarras, where dust is a daily reality.
           </p>
           <p>
             Regular window cleaning extends the life of your windows and keeps your property looking sharp — whether you're hosting guests or selling your home.
@@ -25,7 +25,7 @@ const WindowCleaningKapiti = () => {
 
           <h2>The Gleam Team Difference</h2>
           <p>
-            We use purified water and streak-free techniques to ensure crystal-clear results. Our friendly team services everything from single-storey homes in Levin to multi-level houses in Plimmerton — always with ladder safety and care.
+            We use purified water and streak-free techniques to ensure crystal-clear results. Our friendly team services everything from single-storey homes in Cromwell to multi-level houses in Wanaka — always with ladder safety and care.
           </p>
           <p>
             We also offer interior window cleaning for those wanting the full shine inside and out.
@@ -43,13 +43,13 @@ const WindowCleaningKapiti = () => {
           <h2>FAQs</h2>
 
           <p>
-            <strong>How often should I clean my windows on the Kapiti Coast?</strong><br />
-            For coastal homes in Waikanae or Paraparaumu, we recommend exterior window cleaning every 3–4 months due to the salt and airborne particles.
+            <strong>How often should I clean my windows in the Upper Clutha?</strong><br />
+            For homes in Wanaka or Lake Hawea, we recommend exterior window cleaning every 3–4 months due to dust and airborne particles.
           </p>
 
           <p>
             <strong>Do you do interior window cleaning as well?</strong><br />
-            Yes — we offer full interior and exterior window cleans throughout the region, from Johnsonville to Levin.
+            Yes — we offer full interior and exterior window cleans throughout the region, from Cardrona to Cromwell.
           </p>
 
           <p>
@@ -59,7 +59,7 @@ const WindowCleaningKapiti = () => {
 
           <p>
             <strong>Do you service two-storey homes?</strong><br />
-            Absolutely. We use extendable poles, water-fed systems, and ladder safety for multi-level properties across the Kapiti Coast.
+            Absolutely. We use extendable poles, water-fed systems, and ladder safety for multi-level properties across the Upper Clutha.
           </p>
         </>
       }
@@ -67,4 +67,4 @@ const WindowCleaningKapiti = () => {
   );
 };
 
-export default WindowCleaningKapiti;
+export default WindowCleaningWanaka;
