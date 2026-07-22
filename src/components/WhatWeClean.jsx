@@ -23,13 +23,13 @@ export default function WhatWeClean() {
       {
         label: 'Window Cleaning',
         icon: windowIcon,
-        description: "Deal to that Wanaka dust. Guaranteed to make your neighbours jealous",
+        description: "Deal to that Clutha dust. Guaranteed to make your neighbours jealous",
         link: '/residential-window-cleaning',
       },
             {
         label: 'House Washing',
         icon: houseIcon,
-        description: "Say goodby to grime and hello to shine. Revitalize your home's exterior with well earned glow-up",
+        description: "Say goodbye to grime and hello to shine. Revitalise your home's exterior with a well earned glow-up",
         link: '/residential-house-washing',
       },
       {
@@ -41,7 +41,7 @@ export default function WhatWeClean() {
       {
         label: 'Roof Treatment',
         icon: roofIcon,
-        description: "Utilizing a biodegradable solution that effectively eliminates moss, lichen, and algae without the need for pressure washing. ",
+        description: "Utilising a biodegradable solution that effectively eliminates moss, lichen, and algae without the need for pressure washing. ",
         link: '/residential-roof-treatment',
       },
     ],

@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 import HelmetSEO from '../components/HelmetSEO';
 
 import ResidentialTemplate from './ResidentialTemplate';
-// TODO: placeholder images reused from house washing — swap in real spider spraying photos when available
+// TODO: hero image still a placeholder reused from house washing — swap when a real photo is available
 import spiderHero from '../images/house-washing-wanaka-softwash.webp';
-import tallSpider from '../images/exterior-house-softwash-before-after.webp';
+import tallSpider from '../images/spider-spraying-service-wanaka.webp';
 import sprayImg from '../images/tools/hand-sprayer-bioclean-application.webp';
 import ladderImg from '../images/tools/ladder-placement-gutter-access.webp';
 import softwashImg from '../images/tools/softwash-nozzle-low-pressure.webp';
