@@ -12,19 +12,19 @@ const BlogHome = () => {
         <title>Gleam Team Window Cleaning | Wanaka Window Cleaning Experts</title>
         <meta
           name="description"
-          content="Friendly, reliable, and professional window cleaning across Wanaka, Hawea, Luggate and Tarras. Gleam Team offers residential and commercial window cleaning, pure water cleaning, and more."
+          content="Friendly, reliable, and professional window cleaning across Wanaka, Hawea, Luggate, Tarras and Cromwell. Gleam Team offers residential and commercial window cleaning, pure water cleaning, and more."
         />
         <link rel="canonical" href="https://gleamteam.co.nz/blog" />
 
         <meta property="og:title" content="Gleam Team Window Cleaning | Wanaka Window Cleaning Experts" />
-        <meta property="og:description" content="Window cleaning for homes and businesses across Wanaka, Hawea, Luggate and Tarras — by friendly, reliable professionals." />
+        <meta property="og:description" content="Window cleaning for homes and businesses across Wanaka, Hawea, Luggate, Tarras and Cromwell — by friendly, reliable professionals." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://gleamteam.co.nz/blog" />
         <meta property="og:image" content="https://gleamteam.co.nz/src/images/logo.png" />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Gleam Team Window Cleaning | Wanaka Window Cleaning Experts" />
-        <meta name="twitter:description" content="Window cleaning services for homes and businesses throughout Wanaka, Hawea, Luggate and Tarras." />
+        <meta name="twitter:description" content="Window cleaning services for homes and businesses throughout Wanaka, Hawea, Luggate, Tarras and Cromwell." />
         <meta name="twitter:image" content="https://gleamteam.co.nz/src/images/logo.png" />
 
         <script type="application/ld+json">
@@ -53,7 +53,7 @@ const BlogHome = () => {
               "Gleam Team Window Cleaning offers professional window cleaning in Wanaka, including residential and commercial window cleaning, pure water cleaning, builders cleans and building wash-downs.",
             areaServed: {
               "@type": "Place",
-              name: "Wanaka, Albert Town, Lake Hawea, Luggate, Tarras, and the Upper Clutha"
+              name: "Wanaka, Albert Town, Lake Hawea, Luggate, Tarras, Cromwell, and the Upper Clutha"
             },
             openingHours: [
               "Mo-Fr 09:00-17:00"

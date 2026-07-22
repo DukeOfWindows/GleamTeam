@@ -77,7 +77,7 @@ export default function ResidentialWindowCleaning() {
     <>
 <HelmetSEO
   pageTitle="Residential Window Cleaning | Gleam Team Window Cleaning"
-  metaDescription="Streak-free window cleaning for homes across Wanaka, Lake Hawea, Luggate and nearby. Trusted professionals who care about detail and safety."
+  metaDescription="Streak-free window cleaning for homes across Wanaka, Lake Hawea, Luggate, Cromwell and nearby. Trusted professionals who care about detail and safety."
   canonicalUrl="https://gleamteam.co.nz/residential-window-cleaning"
   image="https://gleamteam.co.nz/images/hero-window.jpg"
   breadcrumbItems={[

@@ -121,7 +121,7 @@ export default function AboutUs() {
       title: 'Team Member',
       img: koaImg,
       alt: 'Brenda from Gleam Team Window Cleaning',
-      desc: `Brenda is part of the Gleam Team crew, helping keep Wanaka, Hawea and Luggate's windows sparkling.`,
+      desc: `Brenda is part of the Gleam Team crew, helping keep Wanaka, Hawea, Luggate and Cromwell's windows sparkling.`,
     },
     {
       name: 'Matt',
@@ -165,7 +165,7 @@ export default function AboutUs() {
       icon: historyIcon,
       alt: 'Timeline showing growth',
       title: 'From One Ladder to Full Crews',
-      text: 'What started as one-man-band work has become a full-service operation, now serving both homes and commercial clients across Wanaka, Hawea, Luggate and Tarras.',
+      text: 'What started as one-man-band work has become a full-service operation, now serving both homes and commercial clients across Wanaka, Hawea, Luggate, Tarras and Cromwell.',
     },
     {
       icon: targetIcon,

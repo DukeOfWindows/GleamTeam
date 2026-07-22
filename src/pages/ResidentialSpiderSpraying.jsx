@@ -62,7 +62,7 @@ export default function ResidentialSpiderSpraying() {
     <>
       <HelmetSEO
         pageTitle="Spider Spraying | Gleam Team Window Cleaning"
-        metaDescription="Professional spider spraying and pest treatment for homes across Wanaka, Hawea, Luggate and Tarras."
+        metaDescription="Professional spider spraying and pest treatment for homes across Wanaka, Hawea, Luggate, Tarras and Cromwell."
         canonicalUrl="https://gleamteam.co.nz/residential-spider-spraying"
         image="https://gleamteam.co.nz/images/hero-spider-spraying.jpg"
         breadcrumbItems={[
@@ -88,7 +88,7 @@ export default function ResidentialSpiderSpraying() {
             "Spiders love to nest around eaves, window frames, decks, and outdoor furniture — leaving webs and unwelcome surprises behind.",
             "Our spider spraying treatment targets these common nesting spots to knock down existing spiders and discourage new webs from forming.",
             "We use a residual treatment that keeps working long after we've left, so you can enjoy a web-free home for months at a time.",
-            "We proudly service Wanaka, Hawea, Luggate and Tarras.",
+            "We proudly service Wanaka, Hawea, Luggate, Tarras and Cromwell.",
           ],
           listItems: [
             "Treatment of eaves, window frames, and decking",

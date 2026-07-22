@@ -62,7 +62,7 @@ export default function ResidentialSolarPanelCleaning() {
     <>
       <HelmetSEO
         pageTitle="Solar Panel Cleaning | Gleam Team Window Cleaning"
-        metaDescription="Professional solar panel cleaning for homes across Wanaka, Hawea, Luggate and Tarras — keep your panels performing at their best."
+        metaDescription="Professional solar panel cleaning for homes across Wanaka, Hawea, Luggate, Tarras and Cromwell — keep your panels performing at their best."
         canonicalUrl="https://gleamteam.co.nz/residential-solar-panel-cleaning"
         image="https://gleamteam.co.nz/images/hero-solar-panel-cleaning.jpg"
         breadcrumbItems={[
@@ -88,7 +88,7 @@ export default function ResidentialSolarPanelCleaning() {
             "Dust, pollen, and grime build up on solar panels over time, gradually reducing how much energy they can generate.",
             "Our gentle, deionised pure water cleaning system removes buildup without scratching or damaging the panel surface.",
             "A cleaner panel means better sunlight absorption — helping your system run closer to its full potential.",
-            "We proudly service Wanaka, Hawea, Luggate and Tarras.",
+            "We proudly service Wanaka, Hawea, Luggate, Tarras and Cromwell.",
           ],
           listItems: [
             "Soft-bristle, deionised water cleaning system",

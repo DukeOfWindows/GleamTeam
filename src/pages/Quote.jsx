@@ -13,7 +13,7 @@ export default function Quote() {
         <title>Get a Free Quote | Gleam Team Window Cleaning Wanaka</title>
         <meta
           name="description"
-          content="Request a free quote for window cleaning from Gleam Team Window Cleaning. Proudly serving Wanaka, Hawea, Luggate and Tarras."
+          content="Request a free quote for window cleaning from Gleam Team Window Cleaning. Proudly serving Wanaka, Hawea, Luggate, Tarras and Cromwell."
         />
       </Helmet>
 

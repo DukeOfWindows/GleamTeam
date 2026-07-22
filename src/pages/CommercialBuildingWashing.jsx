@@ -123,7 +123,7 @@ export default function CommercialBuildingWashing() {
           title: 'Our Commercial-Grade Toolkit',
           subtitle: 'Purpose-Built for Big Jobs and Delicate Surfaces',
           description:
-            'We provide building washing services across the Upper Clutha, including Wanaka, Lake Hawea, Luggate and more.',
+            'We provide building washing services across the Upper Clutha, including Wanaka, Lake Hawea, Luggate, Cromwell and more.',
           items: [
             {
               image: softwashImg,

@@ -68,7 +68,7 @@ export default function ResidentialDeckWashing() {
     <>
 <HelmetSEO
   pageTitle="Deck Washing Services | Gleam Team Window Cleaning"
-  metaDescription="Restore the look and grip of your timber or composite deck with our professional deck washing services. Serving Wanaka, Lake Hawea, and Luggate."
+  metaDescription="Restore the look and grip of your timber or composite deck with our professional deck washing services. Serving Wanaka, Lake Hawea, Luggate, and Cromwell."
   canonicalUrl="https://gleamteam.co.nz/residential-deck-washing"
   image="https://gleamteam.co.nz/images/hero-deck.jpg"
   breadcrumbItems={[

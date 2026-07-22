@@ -63,7 +63,7 @@ export default function ContactForm() {
         Request a Free Quote
       </h2>
       <p className="text-center text-gray-600 text-sm mb-4">
-        Let us know how we can help with your window cleaning around Wanaka, Hawea, Luggate and Tarras.
+        Let us know how we can help with your window cleaning around Wanaka, Hawea, Luggate, Tarras and Cromwell.
       </p>
 
       {/* Form Fields */}

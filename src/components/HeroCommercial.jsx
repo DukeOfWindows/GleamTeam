@@ -8,7 +8,7 @@ export default function HeroCommercial({
   title,
   description,
   pageTitle = "Commercial Window Cleaning | Gleam Team Window Cleaning",
-  metaDescription = "Professional commercial window cleaning across Wanaka, Hawea, Luggate and Tarras.",
+  metaDescription = "Professional commercial window cleaning across Wanaka, Hawea, Luggate, Tarras and Cromwell.",
   children,
 }) {
   return (

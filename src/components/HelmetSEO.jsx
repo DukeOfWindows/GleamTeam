@@ -57,7 +57,7 @@ export default function HelmetSEO({
           description: metaDescription,
           areaServed: {
             "@type": "Place",
-            name: "Wanaka, Albert Town, Lake Hawea, Luggate, Tarras, and the Upper Clutha"
+            name: "Wanaka, Albert Town, Lake Hawea, Luggate, Tarras, Cromwell, and the Upper Clutha"
           },
           openingHours: [
             "Mo-Fr 09:00-17:00"

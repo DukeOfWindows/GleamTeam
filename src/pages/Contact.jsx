@@ -21,7 +21,7 @@ export default function Contact() {
         <title>Contact Gleam Team Window Cleaning | Wanaka Window Cleaners</title>
         <meta
           name="description"
-          content="Get in touch with Gleam Team Window Cleaning. We're here to help with window cleaning, pure water cleaning, and more across Wanaka, Hawea, Luggate and Tarras."
+          content="Get in touch with Gleam Team Window Cleaning. We're here to help with window cleaning, pure water cleaning, and more across Wanaka, Hawea, Luggate, Tarras and Cromwell."
         />
       </Helmet>
 <Navbar />
@@ -100,7 +100,7 @@ export default function Contact() {
       {/* TODO: swap the link below for Gleam Team's new Google My Maps share link
           (Share -> "Anyone with link") so visitors see the same interactive map. */}
       <a
-        href="https://www.google.com/maps/search/?api=1&query=Wanaka+Hawea+Luggate+Tarras+New+Zealand"
+        href="https://www.google.com/maps/search/?api=1&query=Wanaka+Hawea+Luggate+Tarras+Cromwell+New+Zealand"
         target="_blank"
         rel="noopener noreferrer"
         className="text-duke-blue underline block mt-4 text-center"

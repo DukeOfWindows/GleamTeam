@@ -68,7 +68,7 @@ export default function ResidentialPressureWashing() {
     <>
 <HelmetSEO
   pageTitle="Residential Pressure Washing | Gleam Team Window Cleaning"
-  metaDescription="Professional pressure washing for driveways, paths, and patios. Trusted by homeowners across Wanaka, Hawea, Luggate and Tarras."
+  metaDescription="Professional pressure washing for driveways, paths, and patios. Trusted by homeowners across Wanaka, Hawea, Luggate, Tarras and Cromwell."
   canonicalUrl="https://gleamteam.co.nz/residential-pressure-washing"
   image="https://gleamteam.co.nz/images/hero-pressure.jpg"
 breadcrumbItems={[

@@ -8,7 +8,7 @@ export default function ResidentialHero({
   title,
   description,
   pageTitle = "Wanaka Window Cleaning | Gleam Team Window Cleaning",
-  metaDescription = "Professional residential window cleaning across Wanaka, Hawea, Luggate and Tarras.",
+  metaDescription = "Professional residential window cleaning across Wanaka, Hawea, Luggate, Tarras and Cromwell.",
   children,
   backgroundPosition,
 }) {
