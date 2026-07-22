@@ -128,14 +128,15 @@ export default function AboutUs() {
       title: 'Team Member',
       img: MattImg,
       alt: 'Matt from Gleam Team Window Cleaning',
-      desc: `Filler bio for Matt — update with his real story and role on the Gleam Team crew.`,
+      desc: ` Matt is our team manager and loves getting up really early in the morning. As an ex Dunedin dweller he is happy working outside in all weather conditions and is a massive asset to the Gleam Team. Matt is a qualified builder and as such can offer really good advice on all aspects of building maintenance, window and frame cleaning and building washdowns.
+`,
     },
     {
       name: 'Paula',
       title: 'Team Member',
       img: PaulaImg,
       alt: 'Paula from Gleam Team Window Cleaning',
-      desc: `Filler bio for Paula — update with her real story and role on the Gleam Team crew.`,
+      desc: `Paula is the latest team member to join the Gleam Team. She is tall, from Mexico and has a lot of energy. She is an experienced rope access window cleaner, loves rock climbing and is a keen snowboarder. We are very pleased to have her on the team.`,
     },
   ].map((member, i) => (
     <motion.div
