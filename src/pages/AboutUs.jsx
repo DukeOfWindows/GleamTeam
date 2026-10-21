@@ -11,7 +11,6 @@ import WhatWeClean from '../components/WhatWeClean';
 import heroAbout from '../images/about-gleam-team-hero.webp';
 import hoganImg from '../images/Tony-Wanakas-best-window-washer.webp';
 import koaImg from '../images/Brenda-Wanakas-Second-best-window-cleaner.webp';
-import MattImg from '../images/matt.webp';
 import PaulaImg from '../images/paula.webp';
 import heartIcon from '../images/icons/heart.png';
 import historyIcon from '../images/icons/history.png';
@@ -106,8 +105,7 @@ export default function AboutUs() {
 
 {/* Meet the Team */}
 <section className="grid md:grid-cols-3 gap-10">
-  {/* TODO: Matt and Paula are using a placeholder team.png image and filler blurb text —
-      swap in real photos and bios when available. */}
+  {/* TODO: Paula's bio is filler text — swap in a real bio when available. */}
   {[
     {
       name: 'Tony',
@@ -122,14 +120,6 @@ export default function AboutUs() {
       img: koaImg,
       alt: 'Brenda from Gleam Team Window Cleaning',
       desc: `Brenda is part of the Gleam Team crew, helping keep Wanaka, Hawea, Luggate and Cromwell's windows sparkling.`,
-    },
-    {
-      name: 'Matt',
-      title: 'Team Member',
-      img: MattImg,
-      alt: 'Matt from Gleam Team Window Cleaning',
-      desc: ` Matt is our team manager and loves getting up really early in the morning. As an ex Dunedin dweller he is happy working outside in all weather conditions and is a massive asset to the Gleam Team. Matt is a qualified builder and as such can offer really good advice on all aspects of building maintenance, window and frame cleaning and building washdowns.
-`,
     },
     {
       name: 'Paula',
