@@ -12,57 +12,8 @@ import sparkleIcon from '../images/icons/window.png';
 import sunIcon from '../images/icons/sun.png';
 import airIcon from '../images/icons/cleanAir.png';
 
+import { interiorWindowFaqs as faqItems } from '../data/windowFaqs';
 export default function ResidentialInteriorWindowCleaning() {
-  const faqItems = [
-  {
-    question: "Do I need to move furniture or blinds?",
-    answer: (
-      <>
-        We’ll work around most things, but it helps if you <strong>pull back curtains and move fragile items</strong> off windowsills. If something’s tricky, we’ll give you a hand.
-      </>
-    ),
-  },
-{
-  question: "What products do you use inside?",
-  answer: (
-    <>
-      For interior window cleaning, we use a classic <strong>squeegee-and-mop system</strong> with a generous squirt of <strong>Dawn® — a gentle, US-made dish soap</strong> that’s safe for kids, pets, and your glass. It’s super effective, and trusted by window pros worldwide.
-    </>
-  ),
-},
-  {
-    question: "Will there be drips or mess inside?",
-    answer: (
-      <>
-        We carry towels and drop cloths, and we’re pretty tidy operators. <strong>Your floors and furnishings are always protected</strong> — no soggy carpet, pinky promise.
-      </>
-    ),
-  },
-  {
-    question: "Can you clean high interior windows?",
-    answer: (
-      <>
-        <strong>Yes — we use extension poles and adjustable squeegees</strong> to reach clerestory or stairwell windows without damaging your walls or flooring.
-      </>
-    ),
-  },
-  {
-    question: "Can you remove marks or stickers on interior glass?",
-    answer: (
-      <>
-        We sure can. <strong>Just let us know ahead of time</strong> so we can bring the right tools for paint spots, decals, or sticky residue. Additional costs may apply. 
-      </>
-    ),
-  },
-  {
-  question: "What are your payment terms?",
-  answer: (
-    <>
-      The job is <strong>invoiced and payment is due upon completion</strong>. You can pay by <strong>bank transfer, EFTPOS, or cash</strong> — whichever works best for you.
-    </>
-  ),
-}
-];
 
   
   return (

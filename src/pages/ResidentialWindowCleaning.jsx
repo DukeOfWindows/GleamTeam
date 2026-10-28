@@ -11,67 +11,8 @@ import windowIcon from '../images/icons/window.png';
 import sunIcon from '../images/icons/sun.png';
 import houseIcon from '../images/icons/house.png';
 
+import { residentialWindowFaqs as faqItems } from '../data/windowFaqs';
 export default function ResidentialWindowCleaning() {
- const faqItems = [
-  {
-    question: "How often should I clean my windows?",
-    answer: (
-      <>
-        We recommend <strong>an exterior clean every 3 months</strong> to keep things looking sharp year-round. Inside windows can usually go longer between cleans — <strong>every 3–6 months</strong> depending on pets, kids, and cooking habits!
-      </>
-    ),
-  },
-    {
-    question: "What chemicals do you use?",
-    answer: (
-    <>
-      We don’t use any chemicals for exterior window cleaning — instead, we rely on our <strong>pure water cleaning system</strong>. This system filters out all minerals and impurities, leaving nothing behind on your glass. 
-      <br />
-      The result? <strong>Streak-free, spot-free windows</strong> with no chemical residue, making it safer for your home, garden, and pets.
-    </>
-    ),
-  },
-  {
-    question: "Do you clean interior windows too?",
-    answer: (
-      <>
-        <strong>Absolutely!</strong> We're careful around furniture, curtains, and delicate surfaces. Just let us know if you'd like the inside done as well, and we’ll come prepared.
-      </>
-    ),
-  },
-  {
-    question: "Do I need to be home for the clean?",
-    answer: (
-      <>
-        <strong>Only if we're doing the inside.</strong> For exterior cleans, as long as we have access, you can carry on with your day. We’ll send a quick message when we’re finished.
-      </>
-    ),
-  },
-  {
-    question: "Will you remove paint, stickers, or hard water stains?",
-    answer: (
-      <>
-        Standard window cleans don’t include stubborn residue removal — but <strong>we can absolutely quote for extra work</strong> like paint overspray, hard-water stains, or decal removal.
-      </>
-    ),
-  },
-  {
-    question: "What happens if it rains on the day of my booking?",
-    answer: (
-      <>
-        Light rain isn’t a problem, but <strong>we’ll reschedule if the weather’s really rough</strong>. Clean windows + rain won’t leave spots — dirty windows + rain will!
-      </>
-    ),
-  },
-  {
-  question: "What are your payment terms?",
-  answer: (
-    <>
-      The job is <strong>invoiced and payment is due upon completion</strong>. You can pay by <strong>bank transfer, EFTPOS, or cash</strong> — whichever works best for you.
-    </>
-  ),
-}
-];
 
   return (
     <>

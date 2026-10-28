@@ -11,57 +11,8 @@ import windowIcon from '../images/icons/window-dark.png';
 import sunIcon from '../images/icons/sun-dark.png';
 import houseIcon from '../images/icons/building-dark.png';
 
+import { commercialWindowFaqs as faqItems } from '../data/windowFaqs';
 export default function CommercialWindowCleaning() {
-  const faqItems = [
-  {
-    question: "What types of commercial buildings do you service?",
-    answer: (
-      <>
-        We clean <strong>offices, retail storefronts, apartment complexes, schools, medical centres, warehouses — you name it</strong>. If it’s got glass, we’ve got a system for it.
-      </>
-    ),
-  },
-  {
-    question: "Do you offer regular scheduled cleaning?",
-    answer: (
-      <>
-        Definitely. We offer <strong>weekly, fortnightly, monthly, or custom maintenance plans</strong> so your building always looks its best. Set and forget — we’ll take care of the rest.
-      </>
-    ),
-  },
-  {
-    question: "Can you clean multi-storey buildings?",
-    answer: (
-      <>
-        <strong>Yes — we use water-fed pole systems for up to 3 storeys</strong>. For taller buildings, we’ll assess whether elevated work platforms or abseiling is appropriate.
-      </>
-    ),
-  },
-  {
-    question: "Do we need to be on-site during the clean?",
-    answer: (
-      <>
-        <strong>No — we’re happy to clean early morning, after hours, or during off-peak times</strong>. Just give us access and we’ll work around your schedule and foot traffic.
-      </>
-    ),
-  },
-  {
-    question: "Are you insured and health & safety compliant?",
-    answer: (
-      <>
-        Absolutely. We’re <strong>fully insured and Site Safe aware</strong>. Safety is baked into everything we do — especially when we’re working at height or around the public.
-      </>
-    ),
-  },
-  {
-  question: "What are your payment terms?",
-  answer: (
-    <>
-      <strong>Payment is due upon completion</strong> unless other arrangements have been made in advance. We offer flexible payment options for commercial clients where needed.
-    </>
-  ),
-}
-];
 
   return (
     <>
