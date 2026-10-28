@@ -23,14 +23,6 @@ export default function CommercialPressureWashing() {
     ),
   },
   {
-    question: "Can you clean outside business hours?",
-    answer: (
-      <>
-        Absolutely. We can <strong>clean after hours, on weekends, or during public holidays</strong> to avoid disrupting your staff or customers. Let us know what suits.
-      </>
-    ),
-  },
-  {
     question: "Do you offer one-off cleans or ongoing maintenance?",
     answer: (
       <>
@@ -98,7 +90,7 @@ export default function CommercialPressureWashing() {
         paragraphs: [
           "Grime, algae, oil stains, and gum don’t just look bad — they make your business look neglected and can create slip hazards.",
           "Our high-powered commercial pressure washing service tackles it all: shopfronts, carparks, loading zones, signage, bins, and more.",
-          "We clean outside business hours if needed and use surface cleaners to keep mess to a minimum.",
+          "We use surface cleaners to keep mess to a minimum.",
           "We are based in Wanaka, and service Cardrona, Cromwell and everywhere in between.",
         ],
         listItems: [
@@ -106,7 +98,6 @@ export default function CommercialPressureWashing() {
           "Degreasing for carparks and drive-throughs",
           "Chewing gum and stain removal",
           "Water flow controlled to protect surfaces",
-          "After-hours service available on request",
         ]
       }}
 

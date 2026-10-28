@@ -134,17 +134,6 @@ export default function ContactForm() {
       {/* Honeypot */}
       <input type="text" name="_gotcha" style={{ display: 'none' }} tabIndex="-1" autoComplete="off" />
 
-      {/* Promotional Opt-In */}
-      <label className="flex items-start text-sm text-gray-700">
-        <input
-          type="checkbox"
-          name="promoOptIn"
-          defaultChecked
-          className="mt-1 mr-2 border-gray-300 rounded text-duke focus:ring-duke"
-        />
-        <span>Would you like to receive promotional material from Gleam Team?</span>
-      </label>
-
       {/* Error message */}
       {error && (
         <p className="text-sm text-red-600 text-center" role="alert">{error}</p>
