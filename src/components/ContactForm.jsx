@@ -43,11 +43,11 @@ export default function ContactForm() {
       if (res.ok) {
         navigate('/thanks');
       } else {
-        setError('Something went wrong sending your request. Please try again, or phone us on 022 436 7611.');
+        setError('Something went wrong sending your request. Please try again, or phone us on 027 457 5152.');
         setSubmitting(false);
       }
     } catch {
-      setError('Something went wrong sending your request. Please check your connection and try again, or phone us on 022 436 7611.');
+      setError('Something went wrong sending your request. Please check your connection and try again, or phone us on 027 457 5152.');
       setSubmitting(false);
     }
   };
