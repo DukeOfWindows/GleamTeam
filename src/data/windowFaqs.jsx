@@ -6,7 +6,7 @@ import React from 'react';
 const windowFaqs = {
   areas: {
     question: "What areas do Gleam Team service?",
-    answer: <>Gleam Team services the Upper Clutha areas of Wanaka, Hawea and Luggate.</>,
+    answer: <>Gleam Team services the Upper Clutha areas from Wanaka to Cromwell, including Hawea, Luggate and Tarras.</>,
   },
   cost: {
     question: "How much will it cost to have my windows cleaned?",
